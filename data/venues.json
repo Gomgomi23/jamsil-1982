@@ -1,0 +1,27 @@
+[
+  {
+    "id": "VN-jamsil",
+    "type": "Venue",
+    "code": "jamsil",
+    "title": "잠실야구장",
+    "official_name": "서울종합운동장 야구장",
+    "sport": "baseball",
+    "city": "서울 송파구",
+    "opened": "1982-07-15",
+    "last_official_game": "2026-10-20",
+    "summary": "1982년 7월 15일 개장한 서울종합운동장 야구장. 2026년 10월 20일 준플레이오프 3차전을 마지막으로 공식 경기를 끝냈고, 12월 철거에 들어간다.",
+    "source": "jamsil_research.md 1·2장 · 더팩트 김대호 칼럼 · 일간스포츠 2026.10.20",
+    "refs": [
+      "tf-20260105",
+      "isplus-20261020"
+    ],
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PL-stadium",
+      "EV-1982-0715",
+      "EV-2026-1020",
+      "EV-2026-12-demolition"
+    ]
+  }
+]

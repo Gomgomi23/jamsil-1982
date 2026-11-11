@@ -1,0 +1,754 @@
+[
+  {
+    "id": "EV-1980-0417",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "야구장 착공",
+    "date": "1980-04-17",
+    "summary": "잠실 종합개발의 마지막 단계로 야구장 공사가 시작됐다. 개장까지 2년 3개월이 걸렸다.",
+    "source": "더팩트 김대호 칼럼 · 2차 조사(2026-11-03)",
+    "verified": true,
+    "contributor": "research",
+    "tags": [],
+    "linked": [
+      "PL-stadium",
+      "EV-1982-0715"
+    ],
+    "refs": [
+      "tf-20260105",
+      "hankyung-20261021"
+    ]
+  },
+  {
+    "id": "EV-1982-0715",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실야구장 공식 개장",
+    "date": "1982-07-15",
+    "summary": "서울종합운동장 야구장이 개장식을 열었다. 착공 2년 3개월 만이다.",
+    "source": "jamsil_research.md 1·2장 · 일간스포츠 2026.10.20 · 시대 2026.10.21 · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "opening",
+      "calendar-anchor"
+    ],
+    "linked": [
+      "PL-stadium",
+      "PE-kim-in-ho",
+      "EV-1980-0417",
+      "EV-1982-0716"
+    ],
+    "refs": [
+      "tf-20260105",
+      "isplus-20261020",
+      "sidae-20261021"
+    ]
+  },
+  {
+    "id": "EV-1982-0716",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실의 첫 경기",
+    "date": "1982-07-16",
+    "summary": "개장식 다음 날, 경북고·부산고·북일고·군산상고가 나선 우수고교초청대회로 첫 경기가 열렸다.",
+    "source": "일간스포츠 2026.10.20 · 시대 2026.10.21",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "first-record"
+    ],
+    "linked": [
+      "EV-1982-0715",
+      "EV-1982-0717",
+      "NU-days"
+    ],
+    "refs": [
+      "isplus-20261020",
+      "sidae-20261021",
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "EV-1982-0717",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실 1호 홈런",
+    "date": "1982-07-17",
+    "summary": "개장 이틀 뒤, 경북고 류중일이 부산고 김종석을 상대로 잠실의 첫 홈런을 쳤다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "first-record"
+    ],
+    "linked": [
+      "PE-ryu-jung-il",
+      "PE-kim-jong-seok"
+    ],
+    "refs": [
+      "sidae-20261021",
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "EV-1982-0801",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실 첫 프로야구 경기",
+    "date": "1982-08-01",
+    "summary": "롯데가 MBC 청룡을 6-3으로 이겼다. 잠실에서 열린 첫 프로 경기다.",
+    "source": "스포츠경향 2026.05.14 · 일간스포츠 2026.10.20 · 시대 2026.10.21 · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "first-record"
+    ],
+    "linked": [
+      "EV-1982-pro-3games"
+    ],
+    "refs": [
+      "isplus-20261020",
+      "sidae-20261021",
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "EV-1982-pro-3games",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "개장 첫해 프로 경기는 단 3경기",
+    "date": "1982",
+    "summary": "세계야구선수권 준비가 우선이어서, 개장 첫해 잠실에서 열린 프로야구 경기는 3경기뿐이었다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [],
+    "linked": [
+      "EV-1982-0904"
+    ],
+    "refs": [
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "EV-1982-0904",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "제27회 세계야구선수권 개막",
+    "date": "1982-09-04",
+    "date_end": "1982-09-14",
+    "summary": "10개국이 참가한 대회가 잠실에서 열렸다. 한국은 리그전을 8승 1패로 마쳤다.",
+    "source": "jamsil_research.md 2장 · Wikipedia 1982 Amateur World Series",
+    "verified": true,
+    "contributor": "research",
+    "tags": [],
+    "linked": [
+      "EV-1982-0914"
+    ],
+    "refs": [
+      "wiki-aws1982",
+      "sidae-20261021"
+    ]
+  },
+  {
+    "id": "EV-1982-0914",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "세계선수권 결승, 한국 첫 우승",
+    "date": "1982-09-14",
+    "summary": "일본과의 결승. 0-2로 끌려가던 8회말 김재박의 '개구리 번트'로 동점을 만들고 한대화의 3점 홈런으로 뒤집어 5-2로 이겼다. 한국의 첫 세계선수권 우승이다.",
+    "source": "jamsil_research.md 2장 · Wikipedia 1982 Amateur World Series · 시대 2026.10.21",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "calendar-anchor",
+      "tears-candidate"
+    ],
+    "linked": [
+      "PE-kim-jae-bak",
+      "PE-han-dae-hwa",
+      "EV-1982-0904"
+    ],
+    "refs": [
+      "wiki-aws1982",
+      "sidae-20261021"
+    ]
+  },
+  {
+    "id": "EV-1985-ob-seoul",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "OB 베어스, 서울로 연고 이전",
+    "date": "1985",
+    "summary": "OB 베어스가 충청에서 서울로 연고지를 옮겼다. 이 해에는 동대문야구장을 홈으로 썼다.",
+    "source": "jamsil_research.md 1·2장 · 일간스포츠 2026.10.20 · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "tags": [],
+    "linked": [
+      "EV-1986-ob-jamsil"
+    ],
+    "refs": [
+      "isplus-20261020"
+    ]
+  },
+  {
+    "id": "EV-1986-ob-jamsil",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "OB 베어스 잠실 입성, '잠실 클래식'의 시작",
+    "date": "1986",
+    "summary": "OB가 잠실로 들어와 MBC 청룡과 구장을 나눠 쓰기 시작했다. 이 동거가 훗날 LG-두산 라이벌전으로 이어진다.",
+    "source": "일간스포츠 2026.10.20 · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "rivalry"
+    ],
+    "linked": [
+      "PL-stadium",
+      "EV-1985-ob-seoul"
+    ],
+    "refs": [
+      "isplus-20261020",
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "EV-1990-0605",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "삼성-OB전 집단 난투극",
+    "date": "1990-06-05",
+    "summary": "잠실에서 열린 삼성-OB 경기 중 양 팀이 충돌했고, 선수 6명이 퇴장당했다.",
+    "source": "jamsil_research.md 2장 · OSEN 난투사 시리즈",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "dark-history"
+    ],
+    "linked": [],
+    "refs": [
+      "osen-brawl6"
+    ]
+  },
+  {
+    "id": "EV-1990-0826",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "해태-LG전 관중 난동",
+    "date": "1990-08-26",
+    "summary": "경기 중 관중 수백에서 천여 명이 그라운드로 들어왔고 방화가 일어나 무장 경찰이 투입됐다. 잠실 역사에서 가장 심각한 안전 사고로 기록된다.",
+    "source": "jamsil_research.md 2·7장 · OSEN 난투사 시리즈",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "dark-history"
+    ],
+    "linked": [],
+    "refs": [
+      "osen-brawl3",
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "EV-1996-0505",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "어린이날 '잠실 더비' 정례화",
+    "date": "1996-05-05",
+    "summary": "5월 5일 LG-두산 맞대결이 해마다 열리는 전통이 됐다(1997·2002년 제외). 2008년부터는 매년 매진을 이어왔다.",
+    "source": "jamsil_research.md 2·7장 · 뉴시스 2018.05.05 · OSEN 천일평 · 스포츠경향 2026.05.05",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "rivalry",
+      "calendar-anchor"
+    ],
+    "linked": [
+      "PL-stadium"
+    ],
+    "refs": [
+      "khan-20260505",
+      "seoul-20170505"
+    ]
+  },
+  {
+    "id": "EV-2009-1024",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "KS 7차전, 나지완의 끝내기 홈런",
+    "date": "2009-10-24",
+    "summary": "KIA와 SK의 한국시리즈 7차전. 9회말 나지완의 끝내기 홈런으로 KIA가 우승을 확정했다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "korean-series",
+      "tears-candidate"
+    ],
+    "linked": [
+      "PE-na-ji-wan"
+    ],
+    "refs": [
+      "dailian-20091024",
+      "wiki-najiwan"
+    ]
+  },
+  {
+    "id": "EV-2015-doosan-ks",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "두산, 잠실에서 KS 우승",
+    "date": "2015",
+    "summary": "두산이 잠실에서 한국시리즈 정상에 올랐다. 이 해부터 7년 연속 한국시리즈 진출이 시작된다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "korean-series"
+    ],
+    "linked": [],
+    "refs": [
+      "seoul-20151031",
+      "newsis-20211118"
+    ]
+  },
+  {
+    "id": "EV-2023-lg-ks",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "LG, 29년 만의 KS 우승",
+    "date": "2023",
+    "summary": "LG가 1994년 이후 29년 만에 한국시리즈 우승을 차지했다. 우승은 잠실에서 확정됐다.",
+    "source": "jamsil_research.md 7장 A·8장 Q3",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "korean-series",
+      "tears-candidate"
+    ],
+    "linked": [
+      "NU-lg-29years"
+    ],
+    "refs": [
+      "newsis-20231113",
+      "seoul-20231113"
+    ]
+  },
+  {
+    "id": "EV-2023-0918",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "서울시, 돔구장 건설안 발표",
+    "date": "2023-09-18",
+    "summary": "서울시가 잠실야구장 자리에 돔구장을 짓는 계획을 내놓았다.",
+    "source": "jamsil_research.md 2·5장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "dome"
+    ],
+    "linked": [
+      "PL-dome"
+    ],
+    "refs": [
+      "seoul-20230918"
+    ]
+  },
+  {
+    "id": "EV-2024-0709",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "돔구장 계획·대체 구장 최종 확정",
+    "date": "2024-07-09",
+    "summary": "돔구장 건설 계획과 공사 기간 동안 쓸 대체 구장이 최종 확정됐다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "dome"
+    ],
+    "linked": [
+      "PL-dome",
+      "PL-temp-stadium"
+    ],
+    "refs": [
+      "dailian-20240709"
+    ]
+  },
+  {
+    "id": "EV-2026-0710",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실의 마지막 올스타전",
+    "date": "2026-07-10",
+    "date_end": "2026-07-11",
+    "summary": "잠실에서 열린 마지막 올스타전. 퓨처스 경기는 박용택·김재호가 시구했고, 올스타 본경기는 박철순·김용수가 시구하고 김경문·김동수가 시포를 맡았다.",
+    "source": "jamsil_research.md 2장 · 스포츠경향 2026.07.10 / 07.12 · 뉴시스 2026.07.11",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "all-star"
+    ],
+    "linked": [
+      "PE-park-yong-taek",
+      "PE-kim-jae-ho",
+      "PE-kim-yong-su",
+      "PE-park-chul-soon",
+      "NU-allstar-count",
+      "PE-kim-kyung-moon",
+      "PE-kim-dong-su"
+    ],
+    "refs": [
+      "khan-20260710",
+      "khan-20260711",
+      "newsis-20260711"
+    ]
+  },
+  {
+    "id": "EV-2026-07-soil",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "'잠실 흙'이 중고거래에",
+    "date": "2026-07",
+    "summary": "철거 소식이 퍼지자 중고거래 앱에 잠실 그라운드 흙을 판다는 글이 잇따랐다. 한 봉에 7만~8만 원대에 거래됐다는 보도가 나왔다.",
+    "source": "아시아경제 2026.07.13",
+    "verified": false,
+    "note": "단일 출처. 거래된 흙이 실제 잠실 흙인지는 확인할 수 없다",
+    "contributor": "research",
+    "tags": [
+      "artifact-market"
+    ],
+    "linked": [
+      "AR-mound-soil"
+    ],
+    "refs": [
+      "asiae-20260713"
+    ]
+  },
+  {
+    "id": "EV-2026-1012",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "정규시즌 잠실 마지막 경기",
+    "date": "2026-10-12",
+    "summary": "롯데와 두산의 맞대결이 잠실에서 열린 마지막 정규시즌 경기가 됐다.",
+    "source": "jamsil_research.md 2장 · 데일리안 2026.10.12",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last"
+    ],
+    "linked": [],
+    "refs": [
+      "dailian-20261012",
+      "kbo-gc-20261012"
+    ]
+  },
+  {
+    "id": "EV-2026-1014",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "마지막 잠실 라이벌전",
+    "date": "2026-10-14",
+    "summary": "와일드카드 결정전에서 LG가 두산을 4-1로 이겼다. 잠실에서 열린 마지막 LG-두산전이다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "rivalry",
+      "last"
+    ],
+    "linked": [
+      "NU-rivalry-doosan",
+      "NU-rivalry-lg"
+    ],
+    "refs": [
+      "khan-20261015",
+      "kbo-gc-20261014"
+    ]
+  },
+  {
+    "id": "EV-2026-1020",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실 마지막 공식 경기",
+    "date": "2026-10-20",
+    "summary": "준플레이오프 3차전, KIA가 LG를 13-1로 꺾었다. 첫 경기 이후 16,167일, 44년 잠실의 마지막 공식 경기다.",
+    "source": "jamsil_research.md 2·4장 · 스포츠경향·스포티비뉴스 2026.10.20",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last",
+      "calendar-anchor",
+      "tears-candidate"
+    ],
+    "linked": [
+      "EV-2026-1020-R01",
+      "EV-2026-1020-R02",
+      "EV-2026-1020-R03",
+      "EV-2026-1020-R04",
+      "EV-2026-1020-R05",
+      "EV-2026-1020-R06",
+      "EV-2026-1020-R07",
+      "AR-last-ball",
+      "NU-days"
+    ],
+    "refs": [
+      "isplus-20261020",
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1114",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실 더 라스트 이닝 — 고별 레전드 경기",
+    "date": "2026-11-14",
+    "summary": "은퇴 야구인 단체 일구회가 여는 잠실의 마지막 경기. 동군과 서군으로 나뉜 레전드들이 오후 2시에 맞붙는다. 김응용·김성근 감독이 시구하고, 원년 MVP 박철순이 선발로 던지고 이만수가 공을 받는다. 11월 2일 예매가 열리자 전석이 팔렸고, KBS와 네이버 치지직이 생중계한다. 공식 기록이 남지 않는 이벤트 경기라, KBO 공식 경기로는 10월 20일이 마지막이다.",
+    "source": "스타뉴스 2026.11.09 · 스포츠경향 2026.11.09 · 재경일보 · 뉴스1",
+    "verified": true,
+    "status": "planned",
+    "note": "출전 인원은 보도마다 58~61명으로 달라 경기 후 확정 명단으로 채운다",
+    "contributor": "research",
+    "tags": [
+      "last",
+      "farewell"
+    ],
+    "linked": [
+      "PE-park-chul-soon",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "starnews-20261109",
+      "khan-20261109",
+      "jkn-lastinning"
+    ]
+  },
+  {
+    "id": "EV-2026-12-demolition",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "철거 착수 예정",
+    "date": "2026-12",
+    "summary": "고별 경기가 끝나면 서울시 '잠실 스포츠·MICE 복합공간 조성' 민간투자 사업에 따라 12월부터 구장 철거가 시작된다.",
+    "source": "jamsil_research.md 2장 · 스포츠경향 2026.11.09 · 데일리안",
+    "verified": true,
+    "status": "planned",
+    "contributor": "research",
+    "tags": [
+      "dome"
+    ],
+    "linked": [
+      "PL-stadium",
+      "PL-dome"
+    ],
+    "refs": [
+      "dailian-mice",
+      "dailian-20261012"
+    ]
+  },
+  {
+    "id": "EV-2027-temp-stadium",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "임시구장 시대 (2027~2031)",
+    "date": "2027",
+    "date_end": "2031",
+    "summary": "LG와 두산은 서울올림픽주경기장을 고친 임시구장(2만 석 미만)에서 홈경기를 치른다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "status": "planned",
+    "contributor": "research",
+    "tags": [
+      "dome"
+    ],
+    "linked": [
+      "PL-temp-stadium"
+    ],
+    "refs": [
+      "dailian-20240709",
+      "seoul-20260715"
+    ]
+  },
+  {
+    "id": "EV-2032-03-dome",
+    "type": "Event",
+    "venue": "VN-jamsil",
+    "title": "잠실 돔구장 개장 목표",
+    "date": "2032-03",
+    "summary": "3만 석 이상 규모의 잠실 돔구장이 이때 문을 여는 것이 목표다.",
+    "source": "jamsil_research.md 2·5장",
+    "verified": true,
+    "status": "planned",
+    "contributor": "research",
+    "tags": [
+      "dome"
+    ],
+    "linked": [
+      "PL-dome"
+    ],
+    "refs": [
+      "dailian-20240709",
+      "seoul-20230918"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R01",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 승리투수",
+    "date": "2026-10-20",
+    "summary": "KIA · 일본인 투수 최초의 KBO 포스트시즌 승리.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-shirakawa-keisho",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R02",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 결승타",
+    "date": "2026-10-20",
+    "summary": "KIA · 2회 솔로 홈런.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-na-sung-bum",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R03",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 만루홈런",
+    "date": "2026-10-20",
+    "summary": "KIA · 포스트시즌 최연소 만루 홈런. 이 활약으로 준PO MVP에 올랐다.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-kim-do-yeong",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "fn-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R04",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 홈런",
+    "date": "2026-10-20",
+    "summary": "KIA · 7회 솔로 홈런.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-han-jun-su",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R05",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 타점",
+    "date": "2026-10-20",
+    "summary": "KIA · 8회 2타점 2루타.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-park-min",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R06",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 득점",
+    "date": "2026-10-20",
+    "summary": "KIA.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-kim-sun-bin",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  },
+  {
+    "id": "EV-2026-1020-R07",
+    "type": "Record",
+    "venue": "VN-jamsil",
+    "title": "마지막 투수",
+    "date": "2026-10-20",
+    "summary": "KIA · 잠실의 마지막 공을 던졌다.",
+    "source": "jamsil_research.md 4장 · 8장 Q8",
+    "verified": true,
+    "contributor": "research",
+    "tags": [
+      "last-record"
+    ],
+    "linked": [
+      "PE-hwang-dong-ha",
+      "EV-2026-1020",
+      "AR-last-ball"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "kbo-gc-20261020"
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "NU-years",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "hero",
+    "title": "운영 기간",
+    "value": "44",
+    "unit": "년",
+    "summary": "1982년 개장부터 2026년 마지막 경기까지. 시즌으로 세면 45시즌이다.",
+    "source": "jamsil_research.md 1장",
+    "verified": true,
+    "contributor": "research",
+    "hero": {
+      "value": "44",
+      "unit": "년",
+      "label": "1982–2026"
+    },
+    "linked": [
+      "EV-1982-0715",
+      "EV-2026-1020"
+    ]
+  },
+  {
+    "id": "NU-days",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "잠실의 날수",
+    "value": "16,167",
+    "unit": "일",
+    "summary": "첫 경기(1982.07.16)부터 마지막 경기(2026.10.20)까지.",
+    "source": "일간스포츠 2026.10.20 · 날짜 계산으로 검증",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0716",
+      "EV-2026-1020"
+    ]
+  },
+  {
+    "id": "NU-seats",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "좌석 변천",
+    "value": "30,500 → 27,000 → 23,750",
+    "unit": "석",
+    "summary": "개장 당시 3만 500석에서 2010년 2만 7천 석, 2022년 이후 2만 3,750석으로 줄었다. 2026년 10월 7일 LG의 마지막 정규시즌 홈경기도 23,750장이 모두 팔렸다.",
+    "source": "jamsil_research.md 1장 · 7장 A · 톱스타뉴스 2026.10.07",
+    "verified": true,
+    "contributor": "research",
+    "hero": {
+      "value": "23,750",
+      "unit": "석",
+      "label": "현재 좌석"
+    },
+    "linked": [
+      "PL-stadium"
+    ]
+  },
+  {
+    "id": "NU-allstar-1984",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "1984 올스타전 관중",
+    "value": "35,000",
+    "unit": "명",
+    "summary": "역대 올스타전 최다 관중 기록.",
+    "source": "jamsil_research.md 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "NU-allstar-count",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "잠실 올스타전 개최",
+    "value": "14",
+    "unit": "회",
+    "summary": "1983년부터 2026년까지, 전국 구장 가운데 가장 많다.",
+    "source": "jamsil_research.md 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710"
+    ]
+  },
+  {
+    "id": "NU-ks-games",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "잠실 한국시리즈",
+    "value": "90 / 25",
+    "unit": "경기",
+    "summary": "잠실에서 열린 한국시리즈 경기 수 / 그중 우승이 확정된 경기 수.",
+    "source": "jamsil_research.md 3장 · 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "hero": {
+      "value": "90",
+      "unit": "경기",
+      "label": "잠실 한국시리즈"
+    },
+    "linked": [
+      "NU-ks-neutral"
+    ]
+  },
+  {
+    "id": "NU-park-hits",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "잠실 최다 안타",
+    "value": "1,442",
+    "unit": "개",
+    "summary": "박용택이 잠실에서 쌓은 안타 수.",
+    "source": "jamsil_research.md 3장 · 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-park-yong-taek"
+    ]
+  },
+  {
+    "id": "NU-center-fence",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "중앙 펜스 거리",
+    "value": "125",
+    "unit": "m",
+    "summary": "국내에서 가장 깊다(좌우 100m). 잠실이 대표적인 투수 친화 구장으로 꼽히는 이유.",
+    "source": "jamsil_research.md 1장 · 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PL-stadium",
+      "PE-ryu-hyun-jin"
+    ]
+  },
+  {
+    "id": "NU-season-attendance",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "잠실 시즌 최다 관중 경신사",
+    "value": "1,291,703 → 1,397,499 → 1,542,458 → 1,622,238",
+    "unit": "명",
+    "summary": "두산(2012) → LG(2024) → LG(2025) → LG(2026) 순으로 기록이 바뀌었다.",
+    "source": "jamsil_research.md 7장 A · LG 구단 발표 2024·2026 · 머니투데이 2026.10.08",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-lg-2026"
+    ]
+  },
+  {
+    "id": "NU-lg-2026",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "마지막 시즌 LG 홈 관중",
+    "value": "1,622,238",
+    "unit": "명",
+    "summary": "홈 73경기. 잠실에서 한 시즌 160만 명을 넘긴 건 처음이자 마지막이다.",
+    "source": "톱스타뉴스 2026.10.07 · 머니투데이 2026.10.08",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-season-attendance"
+    ]
+  },
+  {
+    "id": "NU-kbo-attendance",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "KBO 총관중",
+    "value": "143만 → 12,770,551",
+    "unit": "명",
+    "summary": "1982년과 2026년 정규시즌 리그 전체 관중. 2026년은 역대 최다다.",
+    "source": "jamsil_research.md 7장 A · 헤럴드경제 2026.10.12",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "NU-ticket-1990",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "1990년 일반석",
+    "value": "3,000",
+    "unit": "원",
+    "summary": "당시 지정석은 4,000원이었다.",
+    "source": "jamsil_research.md 6장 · 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "NU-lg-29years",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "A",
+    "title": "LG의 기다림",
+    "value": "29",
+    "unit": "년",
+    "summary": "1994년 이후 29년 만인 2023년, LG가 잠실에서 한국시리즈 우승을 확정했다.",
+    "source": "jamsil_research.md 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2023-lg-ks"
+    ]
+  },
+  {
+    "id": "NU-kia-ks-clinch",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "records",
+    "title": "KIA(해태) 잠실 KS 우승 확정",
+    "value": "9",
+    "unit": "회",
+    "summary": "통산 우승 12번 중 9번을 잠실에서 확정했다. 중립구장 잠실에서 가장 많이 우승을 확정한 팀.",
+    "source": "jamsil_research.md 3장 · 7장 F · 일간스포츠 2026.10.20 · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-ks-neutral"
+    ]
+  },
+  {
+    "id": "NU-samsung-ks-clinch",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "records",
+    "title": "삼성 잠실 KS 우승 확정",
+    "value": "5",
+    "unit": "회",
+    "summary": "삼성도 우승 다섯 번을 잠실에서 확정했다.",
+    "source": "일간스포츠 2026.10.20 · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-ks-neutral"
+    ]
+  },
+  {
+    "id": "NU-kia-ps-record",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "records",
+    "title": "KIA(해태) 잠실 포스트시즌 통산",
+    "value": "22승 1무 8패",
+    "unit": "",
+    "summary": "잠실 포스트시즌 31경기 성적.",
+    "source": "jamsil_research.md 3장",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "NU-ks-neutral",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "records",
+    "title": "KS 중립 개최 관행",
+    "value": "5~7차전",
+    "unit": "",
+    "summary": "KBO 규정에 따라 한국시리즈 5~7차전을 잠실에서 중립 경기로 치러왔다.",
+    "source": "jamsil_research.md 3장",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "NU-rivalry-doosan",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "records",
+    "title": "두산의 LG전 (2015~2021)",
+    "value": "67승 5무 40패",
+    "unit": "",
+    "summary": "두산이 잠실 라이벌전을 압도한 7년.",
+    "source": "jamsil_research.md 3장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1014"
+    ]
+  },
+  {
+    "id": "NU-rivalry-lg",
+    "type": "Number",
+    "venue": "VN-jamsil",
+    "group": "records",
+    "title": "LG의 두산전 (2022~2025)",
+    "value": "39승 25패",
+    "unit": "",
+    "summary": "흐름이 뒤집혔다. 2026년까지 LG가 5년 연속 상대 전적 우위.",
+    "source": "jamsil_research.md 3장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1014"
+    ]
+  }
+]

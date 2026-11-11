@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Q1",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에 가장 많이 온 사람은 누구인가?",
+    "layers": [
+      "팬",
+      "구장 종사자",
+      "선수"
+    ],
+    "data_sources": [
+      "구단 멤버십·시즌권",
+      "예매처 누적 데이터",
+      "티켓 스텁 공모",
+      "증언"
+    ],
+    "clues": [
+      {
+        "text": "공개된 '잠실 최다 방문 팬' 기록은 아직 없다 (조사 결과 0건).",
+        "source": "jamsil_research.md 7장 D",
+        "verified": true,
+        "contributor": "research",
+        "refs": []
+      },
+      {
+        "text": "유사 사례: 2026 정규시즌 144경기 중 142경기를 직관한 롯데 팬이 있다.",
+        "source": "머니투데이 (jamsil_research.md 7장 D)",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "mt-20261005"
+        ]
+      },
+      {
+        "text": "1995년 입장권을 지금까지 보관한 팬 사례가 확인됐다.",
+        "source": "jamsil_research.md 7장 D",
+        "verified": true,
+        "contributor": "research",
+        "refs": []
+      }
+    ],
+    "answer": null,
+    "stage": "clues",
+    "progress": 25,
+    "source": "jamsil_research.md 7장 D · 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": [
+      "PL-stadium"
+    ]
+  },
+  {
+    "id": "Q2",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에서 돈을 가장 많이 쓴 사람은 누구인가?",
+    "layers": [
+      "개인",
+      "기업",
+      "구단",
+      "공공"
+    ],
+    "data_sources": [
+      "카드 결제",
+      "서울시 예산",
+      "구단 공시"
+    ],
+    "clues": [],
+    "hypothesis": "44년간의 시민 전체",
+    "answer": null,
+    "stage": "registered",
+    "progress": 0,
+    "source": "jamsil_research.md 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": [
+      "NU-ticket-1990"
+    ]
+  },
+  {
+    "id": "Q3",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에서 가장 많이 운 날은 언제인가?",
+    "layers": [
+      "우승",
+      "탈락",
+      "은퇴식"
+    ],
+    "data_sources": [
+      "경기 기록",
+      "기사",
+      "팬 증언"
+    ],
+    "clues": [
+      {
+        "text": "후보 ① 1982.09.14 — 세계선수권 결승, 한국 첫 우승",
+        "source": "jamsil_research.md 8장",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "wiki-aws1982",
+          "sidae-20261021"
+        ]
+      },
+      {
+        "text": "후보 ② 2009.10.24 — KS 7차전 끝내기 홈런",
+        "source": "jamsil_research.md 8장",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "dailian-20091024",
+          "wiki-najiwan"
+        ]
+      },
+      {
+        "text": "후보 ③ 2023 — LG 29년 만의 우승",
+        "source": "jamsil_research.md 8장",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "newsis-20231113",
+          "seoul-20231113"
+        ]
+      },
+      {
+        "text": "후보 ④ 2026.10.20 — 잠실 마지막 공식 경기",
+        "source": "jamsil_research.md 8장",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "spotv-20261021",
+          "kbo-gc-20261020"
+        ]
+      }
+    ],
+    "answer": null,
+    "stage": "clues",
+    "progress": 25,
+    "source": "jamsil_research.md 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": [
+      "EV-1982-0914",
+      "EV-2009-1024",
+      "EV-2023-lg-ks",
+      "EV-2026-1020"
+    ]
+  },
+  {
+    "id": "Q4",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에서 가장 멀리 날아간 공은 누구의 것인가?",
+    "layers": [
+      "비거리 공식 기록",
+      "전설"
+    ],
+    "data_sources": [
+      "트래킹 데이터(최근)",
+      "기사(과거)"
+    ],
+    "clues": [
+      {
+        "text": "2000년 5월 4일 김동주(두산)가 롯데전에서 친 잠실 첫 장외홈런, 비거리 150m(당시 보도 추정치). 2026년 10월 20일 잠실 마지막 경기에서 김도영(KIA)의 만루홈런은 145.8m로 측정됐고 KBO는 145m로 최종 정리했다",
+        "source": "OSEN · 스포츠경향 2015.01.31 · 시대 2026.10.21 / 김도영: 경향신문 2026.10.20",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "khan-20150131",
+          "osen-140m",
+          "sidae-20261021",
+          "khan-20261020b"
+        ]
+      }
+    ],
+    "answer": null,
+    "stage": "clues",
+    "progress": 25,
+    "source": "jamsil_research.md 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": [
+      "NU-center-fence",
+      "PE-kim-dong-ju"
+    ]
+  },
+  {
+    "id": "Q5",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에서 가장 오래 일한 사람은 누구인가?",
+    "layers": [
+      "그라운드키퍼",
+      "아나운서",
+      "상인",
+      "경비"
+    ],
+    "data_sources": [
+      "서울시설공단",
+      "구단",
+      "현장 인터뷰"
+    ],
+    "clues": [],
+    "answer": null,
+    "stage": "registered",
+    "progress": 0,
+    "source": "jamsil_research.md 7장 C · 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": []
+  },
+  {
+    "id": "Q6",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에서 가장 많이 팔린 음식은 무엇인가?",
+    "layers": [
+      "메뉴",
+      "시대별 변화"
+    ],
+    "data_sources": [
+      "매장 운영사",
+      "구단 F&B 데이터"
+    ],
+    "clues": [
+      {
+        "text": "문화 레이어 메모: 치맥, 대형 프랜차이즈 푸드코트",
+        "source": "jamsil_research.md 6장",
+        "verified": true,
+        "contributor": "research",
+        "refs": []
+      }
+    ],
+    "answer": null,
+    "stage": "clues",
+    "progress": 25,
+    "source": "jamsil_research.md 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": [
+      "PL-food-court"
+    ]
+  },
+  {
+    "id": "Q7",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실에서 처음 만나 결혼한 커플은 몇 쌍일까?",
+    "layers": [
+      "팬 사연"
+    ],
+    "data_sources": [
+      "공모"
+    ],
+    "clues": [],
+    "answer": null,
+    "stage": "registered",
+    "progress": 0,
+    "source": "jamsil_research.md 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": []
+  },
+  {
+    "id": "Q8",
+    "type": "Quest",
+    "venue": "VN-jamsil",
+    "question": "잠실의 마지막 공은 지금 어디에 있는가?",
+    "layers": [
+      "유물 추적"
+    ],
+    "data_sources": [
+      "구단",
+      "KBO",
+      "선수"
+    ],
+    "clues": [
+      {
+        "text": "마지막 투수는 황동하(KIA), 2026.10.20 준PO 3차전",
+        "source": "jamsil_research.md 4장 · 8장",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "spotv-20261021",
+          "kbo-gc-20261020"
+        ]
+      },
+      {
+        "text": "같은 날 경기 뒤 양현종(KIA)이 마운드 흙을 페트병에 담아 갔다 — 마지막 경기의 물건이 선수 손에 남은 첫 확인 사례. 공의 행방도 선수·구단 쪽에서 찾을 단서",
+        "source": "파이낸셜뉴스 2026.10.21 · 일간스포츠 2026.10.21",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "fn-20261021"
+        ]
+      },
+      {
+        "text": "마지막 아웃은 9회말 LG 구본혁의 왼쪽 뜬공으로 보도됐다. 그 공을 잡은 KIA 좌익수를 확인하면 마지막 공의 행방을 좇을 수 있다",
+        "source": "SPOTV NEWS 2026.10.21",
+        "verified": true,
+        "contributor": "research",
+        "refs": [
+          "spotv-20261021"
+        ]
+      }
+    ],
+    "answer": null,
+    "stage": "clues",
+    "progress": 25,
+    "source": "jamsil_research.md 8장",
+    "verified": true,
+    "contributor": "research",
+    "linked_entities": [
+      "PE-hwang-dong-ha",
+      "EV-2026-1020",
+      "AR-last-ball",
+      "AR-mound-soil"
+    ]
+  }
+]

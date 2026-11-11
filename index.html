@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>잠실야구장 1982–2026</title>
+  <meta name="description" content="44년간 운영된 잠실야구장의 역사를 데이터로 남기는 디지털 아카이브">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // 저장된 테마를 첫 페인트 전에 적용 (깜빡임 방지)
+    try { var t = localStorage.getItem("jamsil-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top">잠실 <span>1982–2026</span></a>
+    <nav class="nav" aria-label="섹션">
+      <a href="#numbers">계단</a>
+      <a href="#people">사람</a>
+      <a href="#timeline">연표</a>
+      <a href="#last">마지막</a>
+      <a href="#artifacts">유물</a>
+      <a href="#quests">질문</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="화면 테마 바꾸기">◐</button>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <svg class="hero-art" viewBox="0 0 400 140" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+        <circle class="sun" cx="282" cy="118" r="34"/>
+        <path class="stand" d="M0 140 L0 104 Q60 84 120 82 Q200 78 280 82 Q340 84 400 100 L400 140 Z"/>
+        <path class="stand-line" d="M10 104 Q60 88 120 86 Q200 82 280 86 Q340 88 392 102"/>
+        <g class="towers">
+          <path d="M70 86 V44 M64 44 h12 M64 40 h12"/>
+          <path d="M330 86 V40 M324 40 h12 M324 36 h12"/>
+        </g>
+        <path class="field" d="M0 140 L0 124 Q200 110 400 124 L400 140 Z"/>
+      </svg>
+      <div class="hero-inner">
+        <p class="eyebrow" id="hero-eyebrow"></p>
+        <h1 id="hero-title"></h1>
+        <p class="hero-sub" id="hero-sub"></p>
+        <ul class="hero-numbers" id="hero-numbers"></ul>
+      </div>
+    </section>
+
+    <section class="now" id="now" aria-labelledby="now-title" hidden>
+      <div class="now-inner">
+        <p class="now-kicker"><span class="live-dot" aria-hidden="true"></span><span id="now-title">지금 잠실</span> <span class="now-date" id="now-date"></span></p>
+        <p class="now-state" id="now-state"></p>
+        <p class="now-next" id="now-next"></p>
+        <ol class="now-rail" id="now-rail"></ol>
+      </div>
+    </section>
+
+    <section id="numbers" class="section" aria-labelledby="numbers-title">
+      <div class="section-head">
+        <p class="kicker">01 · 숫자 계단</p>
+        <h2 id="numbers-title">1에서 1,622,238까지</h2>
+        <p class="section-lede">숫자를 누르면 그 숫자에 담긴 잠실 44년이 펼쳐집니다. 작은 수부터 큰 수까지, 자릿수가 늘수록 이야기의 단위도 커집니다.</p>
+        <p class="ladder-stats" id="ladder-stats"></p>
+        <div class="ladder-cta" id="ladder-cta"></div>
+      </div>
+      <div class="ladder" id="ladder"></div>
+      <div class="gaps" id="ladder-gaps"></div>
+    </section>
+
+    <section id="people" class="section" aria-labelledby="people-title">
+      <div class="section-head">
+        <p class="kicker">02 · 사람</p>
+        <h2 id="people-title">숫자 속의 사람들</h2>
+        <p class="section-lede">숫자 계단에 나온 사람을 등장한 순서대로 모았습니다. 숫자를 누르면 그 칸으로 갑니다.</p>
+        <p class="ladder-stats" id="people-stats"></p>
+      </div>
+      <div class="people-grid" id="people-grid"></div>
+      <div class="people-more" id="people-more"></div>
+    </section>
+
+    <section id="timeline" class="section" aria-labelledby="timeline-title">
+      <div class="section-head">
+        <p class="kicker">03 · 연표</p>
+        <h2 id="timeline-title">44년의 시간</h2>
+      </div>
+      <ol class="timeline" id="timeline-list"></ol>
+    </section>
+
+    <section id="last" class="section last" aria-labelledby="last-title">
+      <div class="section-head">
+        <p class="kicker">04 · 라스트 레코드</p>
+        <h2 id="last-title">마지막 기록</h2>
+      </div>
+      <div class="last-card" id="last-card"></div>
+    </section>
+
+    <section id="artifacts" class="section" aria-labelledby="artifacts-title">
+      <div class="section-head">
+        <p class="kicker">05 · 유물</p>
+        <h2 id="artifacts-title">잠실이 남긴 물건</h2>
+        <p class="section-lede">공 하나, 흙 한 줌에도 주인과 이력이 있습니다. 지금 어디에 있는지, 누가 갖고 있는지, 어떻게 거기까지 갔는지를 기록합니다.</p>
+        <p class="ladder-stats" id="artifact-stats"></p>
+      </div>
+      <div class="artifact-grid" id="artifact-grid"></div>
+    </section>
+
+    <section id="quests" class="section" aria-labelledby="quests-title">
+      <div class="section-head">
+        <p class="kicker">06 · 질문</p>
+        <h2 id="quests-title">아직 답이 없는 질문들</h2>
+        <p class="section-lede">잠실의 이야기는 분류가 아니라 질문으로 쌓습니다. 단서가 모일수록 답에 가까워집니다.</p>
+      </div>
+      <div class="quest-grid" id="quest-grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer" id="footer"></footer>
+
+  <dialog class="story-dialog" id="story-dialog" aria-labelledby="story-dialog-title">
+    <form id="story-form" method="dialog">
+      <h2 id="story-dialog-title">당신이 생각하는 숫자 이야기</h2>
+      <p class="dialog-note">잠실에서 이 숫자가 떠오르게 하는 장면, 기억, 물건을 들려주세요.</p>
+      <input type="hidden" name="target">
+      <label>숫자
+        <input name="number" inputmode="numeric" maxlength="20" required placeholder="예: 33, 7.15, 1,442">
+      </label>
+      <label>이야기
+        <textarea name="text" rows="5" maxlength="500" required placeholder="예: 1995년 어린이날, 아버지와 처음 간 잠실에서…"></textarea>
+      </label>
+      <label>근거
+        <select name="evidence">
+          <option value="memory">직접 본 기억</option>
+          <option value="object">티켓·사진·유니폼 등 물건</option>
+          <option value="heard">들은 이야기</option>
+          <option value="other">기타</option>
+        </select>
+      </label>
+      <label>닉네임 (선택)
+        <input name="nickname" maxlength="20" placeholder="실명 대신 닉네임">
+      </label>
+      <label id="story-photo-field" hidden>인증 사진 (선택 · 티켓·사진·유니폼 등, 5MB 이하)
+        <input type="file" name="photo" accept="image/jpeg,image/png,image/webp,image/heic">
+      </label>
+      <label class="hp" aria-hidden="true">웹사이트
+        <input name="website" tabindex="-1" autocomplete="off">
+      </label>
+      <label class="check">
+        <input type="checkbox" name="age14" required>
+        만 14세 이상입니다.
+      </label>
+      <label class="check">
+        <input type="checkbox" name="consent" required>
+        실명·연락처 같은 개인정보는 적지 않았고, 이 이야기가 아카이브에 실릴 수 있음에 동의합니다. 사진을 올린다면 직접 찍었거나 게시 권리가 있는 사진입니다(언론사 사진 불가).
+      </label>
+      <p class="dialog-warn" id="story-mode-note"></p>
+      <div class="dialog-actions">
+        <button type="button" class="btn ghost" id="story-cancel">취소</button>
+        <button type="submit" class="btn solid">이야기 남기기</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,887 @@
+[
+  {
+    "id": "PE-kim-in-ho",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김인호",
+    "layer": "builder",
+    "role": "설계자 (고인)",
+    "summary": "잠실야구장을 설계한 건축가. 전통 악기 장구의 옆선에서 외형의 곡선을 따왔다.",
+    "source": "jamsil_research.md 1장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PL-stadium",
+      "EV-1982-0715"
+    ],
+    "refs": [
+      "tf-20260105",
+      "wikitree-20260105"
+    ]
+  },
+  {
+    "id": "PE-ryu-jung-il",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "류중일",
+    "layer": "player",
+    "role": "잠실 1호 홈런 (당시 경북고)",
+    "summary": "1982년 7월 17일, 잠실 개장 이틀 만에 첫 홈런을 기록했다.",
+    "source": "jamsil_research.md 2·7장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0717"
+    ],
+    "refs": [
+      "sidae-20261021",
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "PE-kim-jong-seok",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김종석",
+    "layer": "player",
+    "role": "잠실 1호 홈런 당시 상대 (부산고)",
+    "summary": "잠실 1호 홈런이 나온 경기의 상대 선수.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0717"
+    ],
+    "refs": [
+      "tf-20260105"
+    ]
+  },
+  {
+    "id": "PE-kim-jae-bak",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김재박",
+    "layer": "player",
+    "role": "1982 세계선수권 결승 '개구리 번트'",
+    "summary": "결승 8회말 동점을 만든 번트의 주인공.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0914"
+    ],
+    "refs": [
+      "sidae-20261021",
+      "wiki-aws1982"
+    ]
+  },
+  {
+    "id": "PE-han-dae-hwa",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "한대화",
+    "layer": "player",
+    "role": "1982 세계선수권 결승 역전 3점 홈런",
+    "summary": "동점 직후 역전 3점 홈런으로 한국의 첫 우승을 결정지었다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0914"
+    ],
+    "refs": [
+      "sidae-20261021",
+      "wiki-aws1982"
+    ]
+  },
+  {
+    "id": "PE-na-ji-wan",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "나지완",
+    "layer": "player",
+    "role": "2009 KS 7차전 끝내기 홈런 (KIA)",
+    "summary": "9회말 끝내기 홈런으로 KIA의 우승을 확정했다.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2009-1024"
+    ],
+    "refs": [
+      "dailian-20091024",
+      "wiki-najiwan"
+    ]
+  },
+  {
+    "id": "PE-park-yong-taek",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "박용택",
+    "layer": "player",
+    "role": "잠실 최다 안타 1,442개",
+    "summary": "잠실에서 가장 많은 안타를 친 타자. 2026년 마지막 올스타전 퓨처스 경기에서 시구했다.",
+    "source": "jamsil_research.md 2·3·7장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-park-hits",
+      "EV-2026-0710",
+      "LD-J33"
+    ],
+    "back_number": 33,
+    "team": "LG",
+    "retired_number": true,
+    "refs": [
+      "khan-20260710"
+    ]
+  },
+  {
+    "id": "PE-kim-jae-ho",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김재호",
+    "layer": "legend",
+    "role": "2026 마지막 올스타전 퓨처스 시구",
+    "summary": "잠실 마지막 올스타전 퓨처스 경기 시구자.",
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710",
+      "LD-J52"
+    ],
+    "back_number": 52,
+    "team": "두산",
+    "refs": [
+      "khan-20260710"
+    ]
+  },
+  {
+    "id": "PE-kim-yong-su",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김용수",
+    "layer": "legend",
+    "role": "2026 마지막 올스타전 시구",
+    "summary": "잠실 마지막 올스타전 본경기 시구자.",
+    "source": "jamsil_research.md 2·7장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710",
+      "LD-J41"
+    ],
+    "back_number": 41,
+    "team": "LG",
+    "retired_number": true,
+    "refs": [
+      "khan-20260711",
+      "newsis-20260711"
+    ]
+  },
+  {
+    "id": "PE-park-chul-soon",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "박철순",
+    "layer": "legend",
+    "role": "2026 마지막 올스타전 시구",
+    "summary": "잠실 마지막 올스타전 본경기 시구자.",
+    "source": "jamsil_research.md 2·7장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710",
+      "LD-J21"
+    ],
+    "back_number": 21,
+    "team": "두산(OB)",
+    "retired_number": true,
+    "refs": [
+      "khan-20260711",
+      "newsis-20260711"
+    ]
+  },
+  {
+    "id": "PE-kim-kyung-moon",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김경문",
+    "layer": "legend",
+    "role": "2026 마지막 올스타전 시포자",
+    "summary": "잠실 마지막 올스타전(2026.7.11)에서 박철순의 공을 받는 시포를 맡았다.",
+    "source": "뉴시스 2026.07.11 · 스포츠경향 2026.07.11 · jamsil_research.md 7장 C",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710"
+    ],
+    "refs": [
+      "khan-20260711",
+      "newsis-20260711"
+    ]
+  },
+  {
+    "id": "PE-kim-dong-su",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김동수",
+    "layer": "legend",
+    "role": "2026 마지막 올스타전 시포자",
+    "summary": "잠실 마지막 올스타전(2026.7.11)에서 김용수의 공을 받는 시포를 맡았다.",
+    "source": "뉴시스 2026.07.11 · 스포츠경향 2026.07.11 · jamsil_research.md 7장 C",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710"
+    ],
+    "refs": [
+      "khan-20260711",
+      "newsis-20260711"
+    ]
+  },
+  {
+    "id": "PE-shirakawa-keisho",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "시라카와 게이쇼",
+    "layer": "player",
+    "role": "잠실 마지막 승리투수 (KIA)",
+    "summary": "잠실 마지막 경기의 승리투수. 일본인 투수 최초의 KBO 포스트시즌 승리다.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R01"
+    ],
+    "refs": [
+      "spotv-20261021"
+    ]
+  },
+  {
+    "id": "PE-na-sung-bum",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "나성범",
+    "layer": "player",
+    "role": "잠실 마지막 결승타 (KIA)",
+    "summary": "마지막 경기 2회 솔로 홈런이 결승타가 됐다.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R02"
+    ],
+    "refs": [
+      "spotv-20261021"
+    ]
+  },
+  {
+    "id": "PE-kim-do-yeong",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김도영",
+    "layer": "player",
+    "role": "잠실 마지막 만루홈런·준PO MVP (KIA)",
+    "summary": "포스트시즌 최연소 만루 홈런을 잠실의 마지막 만루포로 남겼다.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R03"
+    ],
+    "refs": [
+      "spotv-20261021",
+      "fn-20261020"
+    ]
+  },
+  {
+    "id": "PE-han-jun-su",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "한준수",
+    "layer": "player",
+    "role": "잠실 마지막 홈런 (KIA)",
+    "summary": "7회 솔로 홈런. 1호 류중일에서 시작된 잠실 홈런사의 마지막 장.",
+    "source": "jamsil_research.md 4·7장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R04"
+    ],
+    "refs": [
+      "spotv-20261021"
+    ]
+  },
+  {
+    "id": "PE-park-min",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "박민",
+    "layer": "player",
+    "role": "잠실 마지막 타점 (KIA)",
+    "summary": "8회 2타점 2루타로 잠실의 마지막 타점을 올렸다.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R05"
+    ],
+    "refs": [
+      "spotv-20261021"
+    ]
+  },
+  {
+    "id": "PE-kim-sun-bin",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김선빈",
+    "layer": "player",
+    "role": "잠실 마지막 득점 (KIA)",
+    "summary": "잠실에서 마지막으로 홈을 밟은 선수.",
+    "source": "jamsil_research.md 4장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R06"
+    ],
+    "refs": [
+      "spotv-20261021"
+    ]
+  },
+  {
+    "id": "PE-hwang-dong-ha",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "황동하",
+    "layer": "player",
+    "role": "잠실 마지막 투수 (KIA)",
+    "summary": "잠실의 마지막 공을 던졌다. 그 공의 행방은 Q8의 질문으로 남아 있다.",
+    "source": "jamsil_research.md 4·8장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R07",
+      "AR-last-ball"
+    ],
+    "refs": [
+      "spotv-20261021"
+    ]
+  },
+  {
+    "id": "PE-jung-su-bin",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "정수빈",
+    "layer": "player",
+    "role": "증언 후보 — '잠실 아이돌'",
+    "summary": "인물 증언 수집 대상 후보. 2025년 8월 24일 잠실 KT전에서 1,795번째 경기에 나서 김재호(1,794경기)를 넘어 베어스 최다 출장 기록을 세웠다.",
+    "source": "jamsil_research.md 6장 · 두산 베어스 공식 X 2025.08.24 · 뉴스1",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J31",
+      "LD-J52"
+    ],
+    "back_number": 31,
+    "team": "두산",
+    "refs": [
+      "khan-20260319",
+      "nocut-jaeho"
+    ]
+  },
+  {
+    "id": "PE-lim-chan-gyu",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "임찬규",
+    "layer": "player",
+    "role": "증언 후보 — '엘린이' 출신",
+    "summary": "인물 증언 수집 대상 후보.",
+    "source": "jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J01"
+    ],
+    "back_number": 1,
+    "team": "LG"
+  },
+  {
+    "id": "PE-yang-eui-ji",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "양의지",
+    "layer": "player",
+    "role": "증언 후보",
+    "summary": "인물 증언 수집 대상 후보.",
+    "source": "jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J25"
+    ],
+    "back_number": 25,
+    "team": "두산"
+  },
+  {
+    "id": "PE-ryu-hyun-jin",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "류현진",
+    "layer": "player",
+    "role": "증언 후보",
+    "summary": "2026년 7월 잠실 마지막 올스타전에서 잠실을 \"10개 구단 모든 투수가 가장 좋아하는 곳\"이라고 했다. 투수 친화 구장이라는 평가와 맞닿는다.",
+    "source": "연합뉴스 2026.07.11 · jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-center-fence"
+    ],
+    "refs": [
+      "yna-20260711"
+    ]
+  },
+  {
+    "id": "PE-choi-hyoung-woo",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "최형우",
+    "layer": "player",
+    "role": "증언 후보",
+    "summary": "인물 증언 수집 대상 후보.",
+    "source": "jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "PE-choi-jeong",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "최정",
+    "layer": "player",
+    "role": "증언 후보",
+    "summary": "인물 증언 수집 대상 후보.",
+    "source": "jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "PE-lee-byung-kyu",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "이병규",
+    "layer": "legend",
+    "role": "LG 영구결번 9번",
+    "team": "LG",
+    "back_number": 9,
+    "retired_number": true,
+    "summary": "LG의 '영원한 9번'. 2017년 은퇴식과 함께 9번이 영구결번됐다. 야수로는 LG 첫 영구결번이다.",
+    "source": "데일리안 · OSEN (2017 은퇴·영구결번 보도)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J09"
+    ],
+    "refs": [
+      "dailian-641780",
+      "osen-byk"
+    ]
+  },
+  {
+    "id": "PE-kim-young-shin",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김영신",
+    "layer": "legend",
+    "role": "OB 포수 · KBO 첫 영구결번 54번",
+    "team": "두산(OB)",
+    "back_number": 54,
+    "retired_number": true,
+    "summary": "1986년 세상을 떠난 OB 베어스 포수. 구단이 그를 기리며 54번을 결번했고, 이것이 KBO 리그 첫 영구결번이 됐다.",
+    "source": "데일리안 · 영문 위키(OB Bears) 등 복수 자료",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J54"
+    ],
+    "refs": [
+      "newsis-20200705",
+      "dailian-547569"
+    ]
+  },
+  {
+    "id": "PE-oh-ji-hwan",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "오지환",
+    "layer": "player",
+    "role": "LG 내야수",
+    "team": "LG",
+    "back_number": 10,
+    "summary": "LG 내야수. 등번호 10번.",
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J10"
+    ],
+    "refs": [
+      "kbo-player"
+    ]
+  },
+  {
+    "id": "PE-austin",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "오스틴",
+    "layer": "player",
+    "role": "LG 내야수",
+    "team": "LG",
+    "back_number": 23,
+    "summary": "LG 외국인 타자. 등번호 23번. KBO 통산 홈런의 절반 가까이를 잠실에서 쳤다(2026년 6월 기준 99개 중 49개).",
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회) · 스포츠경향 2026.06.02",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J23",
+      "LD-049"
+    ],
+    "refs": [
+      "kbo-player",
+      "khan-20260602"
+    ]
+  },
+  {
+    "id": "PE-park-hae-min",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "박해민",
+    "layer": "player",
+    "role": "LG 외야수",
+    "team": "LG",
+    "back_number": 17,
+    "summary": "LG 외야수. 등번호 17번.",
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "LD-J17"
+    ],
+    "refs": [
+      "kbo-player"
+    ]
+  },
+  {
+    "id": "PE-kim-dong-ju",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김동주",
+    "layer": "player",
+    "role": "두산 타자 · 잠실 첫 장외홈런",
+    "team": "두산",
+    "summary": "2000년 5월 4일 롯데전에서 잠실 첫 장외홈런(비거리 150m)을 쳤다. 잠실에서만 홈런 131개(3,763타석)를 기록했다.",
+    "source": "시대 2026.10.21 · 스포츠경향 2026.06.02 · OSEN · 스포츠경향 2015.01.31",
+    "verified": false,
+    "note": "150m 장외홈런은 3개 매체 일치(비거리는 보도 추정치). 잠실 131홈런은 스포츠경향 1개 출처 — 추가 확인 필요",
+    "contributor": "research",
+    "linked": [
+      "LD-131",
+      "LD-150"
+    ],
+    "refs": [
+      "sidae-20261021",
+      "khan-20150131",
+      "osen-140m",
+      "nate-goodbye15",
+      "khan-20260602"
+    ]
+  },
+  {
+    "id": "PE-yang-hyeon-jong",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "양현종",
+    "layer": "player",
+    "role": "KIA 투수 · 잠실 마운드 흙을 담아 간 선수",
+    "team": "KIA",
+    "summary": "잠실에서 프로 데뷔전과 첫 세이브를 치렀고, 2017년 한국시리즈 5차전을 마무리해 우승을 확정했다. 잠실의 마지막 경기가 끝난 뒤 마운드 흙을 담아 갔다.",
+    "source": "파이낸셜뉴스 2026.10.21 · 일간스포츠 2026.10.21 · 톱스타뉴스",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "AR-mound-soil",
+      "EV-2026-1020"
+    ],
+    "refs": [
+      "fn-20261021"
+    ]
+  },
+  {
+    "id": "PE-choi-dong-won",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "최동원",
+    "layer": "player",
+    "role": "투수 (고인)",
+    "team": "롯데",
+    "summary": "1984년 한국시리즈에서 롯데의 4승을 혼자 따냈다. 7차전은 잠실에서 완투승으로 우승을 확정했다.",
+    "source": "시대 2026.10.21 · 머니투데이 2011.10.25",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "sidae-20261021",
+      "mt-20111025"
+    ]
+  },
+  {
+    "id": "PE-yoo-doo-yeol",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "유두열",
+    "layer": "player",
+    "role": "외야수 (고인)",
+    "team": "롯데",
+    "summary": "1984년 한국시리즈 7차전 8회, 잠실에서 역전 3점 홈런을 쳐 시리즈 MVP가 됐다.",
+    "source": "시대 2026.10.21 · 부산일보 2017.09.24",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "sidae-20261021",
+      "busan-20170924"
+    ]
+  },
+  {
+    "id": "PE-kim-tae-won",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김태원",
+    "layer": "player",
+    "role": "투수",
+    "team": "LG",
+    "summary": "1993년 9월 9일 쌍방울전에서 잠실 1호 노히트노런을 기록했다(9-0).",
+    "source": "Wikipedia(List of KBO League no-hitters) · 다음",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "wiki-nohit",
+      "daum-kimtaewon"
+    ]
+  },
+  {
+    "id": "PE-lee-kang-don",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "이강돈",
+    "layer": "player",
+    "role": "외야수",
+    "team": "빙그레",
+    "summary": "1987년 8월 27일 잠실 OB전에서 KBO 통산 두 번째 사이클링 히트를 쳤다.",
+    "source": "뉴시스 2025.07.12 · Baseball-Reference",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "newsis-20250712",
+      "br-kangdon"
+    ]
+  },
+  {
+    "id": "PE-tyrone-woods",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "타이론 우즈",
+    "layer": "player",
+    "role": "타자",
+    "team": "OB·두산",
+    "summary": "1998년 42홈런으로 당시 KBO 시즌 최다 홈런 신기록을 세우고 외국인 선수 첫 MVP가 됐다. 2001년 한국시리즈 6차전 잠실 장외 2점포.",
+    "source": "노컷뉴스 · 뉴시스 2020.08.26 · 서울신문 2001.10.29",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "nocut-woods",
+      "newsis-20200826",
+      "seoul-20011029"
+    ]
+  },
+  {
+    "id": "PE-kim-jae-hwan",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김재환",
+    "layer": "player",
+    "role": "타자",
+    "team": "두산",
+    "summary": "2018년 44홈런으로 홈런왕·MVP. 우즈 이후 20년 만에 잠실을 홈으로 쓴 홈런왕.",
+    "source": "서울신문 2018.11.19 · 뉴시스 2025.12.08",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "seoul-20181119",
+      "osen-no32"
+    ]
+  },
+  {
+    "id": "PE-kim-dae-han",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김대한",
+    "layer": "player",
+    "role": "외야수",
+    "team": "두산",
+    "summary": "2022년 박건우의 37번을, 2026년 김재환의 32번을 이어받았다.",
+    "source": "한국경제 2022.01.19 · OSEN 2026.01",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "hankyung-20220119",
+      "osen-no32"
+    ]
+  },
+  {
+    "id": "PE-kim-ji-yong",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "김지용",
+    "layer": "player",
+    "role": "투수",
+    "team": "LG → 두산",
+    "summary": "LG에서 48번(2014~2021)을 달다가 2022년 두산으로 옮겨 19번을 받았다.",
+    "source": "한국경제 2022.01.19",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "hankyung-20220119"
+    ]
+  },
+  {
+    "id": "PE-lee-hyung-jong",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "이형종",
+    "layer": "player",
+    "role": "외야수",
+    "team": "LG",
+    "summary": "LG 36번을 세 차례 달았다(2014 · 2016~2020 · 2022).",
+    "source": "나무위키 — LG 트윈스/등번호",
+    "verified": false,
+    "contributor": "research",
+    "linked": [],
+    "note": "등번호 이력 단일 출처(나무위키)",
+    "refs": [
+      "namu-lgno"
+    ]
+  },
+  {
+    "id": "PE-heo-in-seo",
+    "type": "Person",
+    "venues": [
+      "VN-jamsil"
+    ],
+    "title": "허인서",
+    "layer": "player",
+    "role": "포수",
+    "team": "한화",
+    "summary": "2026년 7월 11일 잠실 마지막 올스타전 MVP. 첫 출전에서 4안타.",
+    "source": "뉴시스 2026.07.11 · 스포츠경향 2026.07.11",
+    "verified": true,
+    "contributor": "research",
+    "linked": [],
+    "refs": [
+      "newsis-20260711",
+      "khan-20260711b"
+    ]
+  }
+]

@@ -1,0 +1,2800 @@
+[
+  {
+    "id": "LD-001",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "prologue",
+    "value": 1,
+    "title": "1",
+    "covers": [
+      1
+    ],
+    "stories": [
+      {
+        "text": "개장 이튿날인 1982년 7월 16일, 군산상고와 경북고가 잠실의 **1**번째 경기를 치렀다.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "isplus-20261020"
+        ]
+      },
+      {
+        "text": "1982년 7월 17일, 경북고 류중일이 잠실 **1**호 홈런을 쳤다. 44년 동안 쌓일 숫자는 모두 이 1에서 시작한다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "1982년 8월 1일, 롯데가 MBC를 6-3으로 꺾었다. 잠실 프로야구 **1**번째 경기, **1**번째 승리.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "isplus-20261020"
+        ]
+      },
+      {
+        "text": "1983년 한국시리즈 2차전은 잠실의 **1**번째 포스트시즌 경기였다. 해태가 MBC를 8-4로 이겼다.",
+        "verified": false,
+        "note": "경기 장소는 오마이스타 2026.10.21 1건. 스코어는 Baseball-Reference로 확인",
+        "refs": [
+          "ohmy-20261021"
+        ]
+      },
+      {
+        "text": "1990년, MBC를 인수해 새로 출발한 LG가 창단 **1**년 만에 우승했다. 서울 연고 팀의 첫 한국시리즈 우승이다.",
+        "verified": true,
+        "refs": [
+          "daum-lg1990",
+          "imaeil-ks"
+        ]
+      },
+      {
+        "text": "1993년 9월 9일, LG 김태원이 쌍방울을 9-0으로 누르며 잠실 **1**호 노히트노런을 기록했다.",
+        "verified": true,
+        "refs": [
+          "wiki-nohit",
+          "daum-kimtaewon"
+        ]
+      },
+      {
+        "text": "2000년 5월 4일, 김동주가 잠실 **1**호 장외홈런을 쳤다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "khan-20150131"
+        ]
+      },
+      {
+        "text": "2014년 10월 6일, LG 투수 셋이 NC를 상대로 안타를 하나도 내주지 않고 1-0으로 이겼다. KBO **1**호 팀 노히트노런이 잠실에서 나왔다.",
+        "verified": true,
+        "refs": [
+          "nocut-teamnh",
+          "newsis-20250415"
+        ]
+      }
+    ],
+    "bridge": "그 1호 홈런이 나오기까지 걸린 시간은 2년 3개월이었다.",
+    "source": "jamsil_research.md 2장 · 시대 2026.10.21 · 오마이스타 2026.10.21 · 다음(1990 LG) · 매일신문 · Wikipedia(List of KBO League no-hitters) · 노컷뉴스·OSEN·뉴시스(팀 노히트노런)",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0717",
+      "PE-ryu-jung-il"
+    ]
+  },
+  {
+    "id": "LD-002",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 2,
+    "title": "2",
+    "covers": [
+      2
+    ],
+    "stories": [
+      {
+        "text": "1980년 4월 착공부터 1982년 7월 개장까지 **2**년 3개월.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "hankyung-20261021"
+        ]
+      },
+      {
+        "text": "그해 9월 세계선수권 결승, 한국은 일본에 0-**2**로 끌려가고 있었다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "wiki-aws1982"
+        ]
+      },
+      {
+        "text": "1987년 8월 27일, 빙그레 이강돈이 잠실 OB전에서 KBO 통산 **2**번째 사이클링 히트를 쳤다.",
+        "verified": true,
+        "refs": [
+          "newsis-20250712",
+          "br-kangdon"
+        ]
+      },
+      {
+        "text": "KBO 팀 노히트노런 4번 가운데 **2**번이 잠실에서 나왔고, 두 번 모두 LG였다(2014·2025).",
+        "verified": true,
+        "refs": [
+          "newsis-20250415",
+          "nocut-teamnh"
+        ]
+      },
+      {
+        "text": "2025년 한국시리즈, LG는 잠실 1·**2**차전을 모두 잡고 대전에서 우승을 확정했다. 잠실에서 열린 마지막 한국시리즈 경기다.",
+        "verified": true,
+        "refs": [
+          "newsis-20251031",
+          "kbo-gc-20251027"
+        ]
+      }
+    ],
+    "bridge": "8회말, 판을 뒤집은 건 3점짜리 한 방이었다.",
+    "source": "jamsil_research.md 1·2장 · 뉴시스 2025.07.12 · Baseball-Reference(Kang-don Lee) · OSEN·뉴시스 2025.04.15 · 뉴시스 2025.10.31",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1980-0417",
+      "EV-1982-0715",
+      "EV-1982-0914"
+    ]
+  },
+  {
+    "id": "LD-003",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 3,
+    "title": "3",
+    "covers": [
+      3
+    ],
+    "stories": [
+      {
+        "text": "한대화의 역전 **3**점 홈런(1982.09.14).",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "dailian-20261012"
+        ]
+      },
+      {
+        "text": "개장 첫해 잠실에서 열린 프로 경기는 단 **3**경기.",
+        "verified": true,
+        "refs": [
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "1990년 일반석은 **3**,000원.",
+        "verified": false,
+        "refs": [],
+        "note": "1990년 입장료 — 검증 링크 미확보(원자료 6장)"
+      },
+      {
+        "text": "44년 뒤 마지막 준플레이오프에서 LG는 **3**전 전패로 물러났다.",
+        "verified": true,
+        "refs": [
+          "isplus-20261020",
+          "kbo-gc-20261020"
+        ]
+      },
+      {
+        "text": "1984년 한국시리즈 7차전, 3-4로 뒤진 8회초 유두열의 역전 **3**점 홈런.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "mt-20111025",
+          "busan-20170924"
+        ]
+      }
+    ],
+    "bridge": "개장 첫 무대에 선 건 프로가 아니라 고교생, 네 학교였다.",
+    "source": "jamsil_research.md 2·6장 · 일간스포츠 2026.10.20 · 데일리안 · 트윅 2026.10.21 · 시대 2026.10.21 · 머니투데이 2011.10.25 · 부산일보 2017.09.24",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0914",
+      "PE-han-dae-hwa",
+      "EV-1982-pro-3games",
+      "NU-ticket-1990",
+      "EV-2026-1020"
+    ]
+  },
+  {
+    "id": "LD-004",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 4,
+    "title": "4",
+    "covers": [
+      4
+    ],
+    "stories": [
+      {
+        "text": "첫 경기 우수고교초청대회에 나선 **4**개교 — 경북고·부산고·북일고·군산상고.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "ohmy-20261021"
+        ]
+      },
+      {
+        "text": "1990년 지정석은 **4**,000원.",
+        "verified": false,
+        "refs": [],
+        "note": "1990년 입장료 — 검증 링크 미확보(원자료 6장)"
+      },
+      {
+        "text": "2026년 10월 14일, 마지막 잠실 라이벌전은 LG **4**-1 두산.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "khan-20261015",
+          "kbo-gc-20261014"
+        ]
+      },
+      {
+        "text": "1984년 한국시리즈, 롯데의 **4**승은 모두 최동원 한 사람이 따냈다. 그 넷째 승리가 잠실 7차전 완투승이다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "mt-20111025"
+        ]
+      },
+      {
+        "text": "1990년 한국시리즈, LG는 삼성을 **4**전 전승으로 눌렀다.",
+        "verified": true,
+        "refs": [
+          "daum-lg1990",
+          "imaeil-ks"
+        ]
+      },
+      {
+        "text": "2025년 LG는 구단 통산 **4**번째 우승을 차지했다(1990·1994·2023·2025).",
+        "verified": true,
+        "refs": [
+          "newsis-20251031"
+        ]
+      }
+    ],
+    "bridge": "1982년 결승의 최종 스코어는 5-2였다.",
+    "source": "jamsil_research.md 2·6장 · 시대 2026.10.21 · 다음(1990 LG) · 매일신문 · 뉴시스 2025.10.31",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0716",
+      "NU-ticket-1990",
+      "EV-2026-1014"
+    ]
+  },
+  {
+    "id": "LD-005",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 5,
+    "title": "5",
+    "covers": [
+      5
+    ],
+    "stories": [
+      {
+        "text": "세계선수권 결승 **5**-2, 한국의 첫 우승.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "wiki-aws1982"
+        ]
+      },
+      {
+        "text": "어린이날(**5**월 **5**일) 잠실 더비.",
+        "verified": true,
+        "refs": [
+          "khan-20260505",
+          "seoul-20170505"
+        ]
+      },
+      {
+        "text": "삼성이 잠실에서 확정한 우승 **5**번.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "한국시리즈 **5**~7차전은 잠실 중립 개최가 관행이었다.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "sidae-20261021"
+        ]
+      },
+      {
+        "text": "LG의 **5**년 연속 두산전 우위.",
+        "verified": true,
+        "refs": [
+          "kbo-vs",
+          "dailian-1700616"
+        ]
+      },
+      {
+        "text": "철거 뒤 **5**년의 임시구장 시대(2027~2031).",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "khan-20260513"
+        ]
+      },
+      {
+        "text": "다음 잠실, 돔구장 건설비 약 **5**천억 원.",
+        "verified": true,
+        "refs": [
+          "osen-dome",
+          "seoul-20230918"
+        ]
+      },
+      {
+        "text": "2015년 한국시리즈 **5**차전, 두산이 잠실에서 삼성을 13-2로 꺾고 14년 만에 우승했다. MVP는 정수빈.",
+        "verified": true,
+        "refs": [
+          "seoul-20151031"
+        ]
+      }
+    ],
+    "bridge": "5가 가장 많은 이야기를 가진 숫자다. 그 반대편에 6이 있다.",
+    "source": "jamsil_research.md 2·3·5장 · 2차 조사 · 서울신문 2015.10.31 · 데일리안 2015.10.31",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0914",
+      "EV-1996-0505",
+      "NU-samsung-ks-clinch",
+      "NU-ks-neutral",
+      "NU-rivalry-lg",
+      "EV-2027-temp-stadium",
+      "PL-dome"
+    ]
+  },
+  {
+    "id": "LD-006",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 6,
+    "title": "6",
+    "covers": [
+      6
+    ],
+    "stories": [
+      {
+        "text": "1990년 6월 5일 삼성-OB 난투극, **6**명 퇴장.",
+        "verified": true,
+        "refs": [
+          "osen-brawl6"
+        ]
+      },
+      {
+        "text": "1982년 8월 1일 잠실 첫 프로 경기는 롯데 **6**-3 MBC.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "isplus-20261020"
+        ]
+      },
+      {
+        "text": "1984년 10월 9일 한국시리즈 7차전, 롯데 **6**-4 삼성. 롯데의 첫 우승이 잠실에서 확정됐다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "mt-20111025"
+        ]
+      }
+    ],
+    "bridge": "잠실의 우승 서사는 7차전에서 가장 뜨거웠다.",
+    "source": "jamsil_research.md 2장 · 2차 조사 · 시대 2026.10.21 · 머니투데이 2011.10.25",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1990-0605",
+      "EV-1982-0801"
+    ]
+  },
+  {
+    "id": "LD-007",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 7,
+    "title": "7",
+    "covers": [
+      7
+    ],
+    "stories": [
+      {
+        "text": "2009년 한국시리즈 **7**차전, 나지완의 끝내기 홈런.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "wiki-najiwan"
+        ]
+      },
+      {
+        "text": "2015년부터 시작된 두산의 **7**년 연속 한국시리즈 진출.",
+        "verified": true,
+        "refs": [
+          "newsis-20211118"
+        ]
+      },
+      {
+        "text": "마지막 경기 **7**회, 한준수의 잠실 마지막 홈런.",
+        "verified": true,
+        "refs": [
+          "wikitree-20261020",
+          "kbo-gc-20261020"
+        ]
+      },
+      {
+        "text": "개장일은 **7**월 15일.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "isplus-20261020"
+        ]
+      },
+      {
+        "text": "1984년 한국시리즈 **7**차전은 원래 10월 8일이었다. 하루 밀린 덕에 쉬고 나온 최동원이 다시 마운드에 섰다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021"
+        ]
+      }
+    ],
+    "bridge": "1982년 결승도, 2026년 마지막 타점도 8회에 나왔다.",
+    "source": "jamsil_research.md 2·4장 · 시대 2026.10.21",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2009-1024",
+      "EV-2015-doosan-ks",
+      "EV-2026-1020-R04",
+      "EV-1982-0715"
+    ]
+  },
+  {
+    "id": "LD-008",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 8,
+    "title": "8",
+    "covers": [
+      8
+    ],
+    "stories": [
+      {
+        "text": "1982년 결승, **8**회말 역전.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "wiki-aws1982"
+        ]
+      },
+      {
+        "text": "1982년 세계선수권, 한국은 **9**경기에서 **8**승 1패. 첫 경기 이탈리아전만 졌다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "wiki-aws1982"
+        ]
+      },
+      {
+        "text": "마지막 경기 **8**회, 박민의 잠실 마지막 타점.",
+        "verified": true,
+        "refs": [
+          "kbo-gc-20261020"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      },
+      {
+        "text": "KIA 잠실 포스트시즌 통산 22승 1무 **8**패.",
+        "verified": true,
+        "refs": [
+          "khan-20261020"
+        ]
+      },
+      {
+        "text": "두산의 2012년 **8**경기 연속 매진.",
+        "verified": false,
+        "note": "스포츠경향 2026.05.14 1개 출처(2012.5.17~29). 참고: LG도 2025년 개막 후 8경기 연속 매진(OSEN 2025.04.12)",
+        "refs": [
+          "khan-20260513",
+          "khan-20260514"
+        ]
+      },
+      {
+        "text": "1988년 서울올림픽 야구(시범종목)에 **8**개 팀이 나섰고, 경기는 잠실에서 열렸다.",
+        "verified": true,
+        "refs": [
+          "wiki-1988oly",
+          "khan-20260514"
+        ]
+      }
+    ],
+    "bridge": "그리고 9. 잠실에서 가장 많이 웃은 원정팀의 숫자.",
+    "source": "jamsil_research.md 2·3·4장 · 스포츠경향 2026.05.14 · 시대 2026.10.21 · Wikipedia(Baseball at the 1988 Summer Olympics) · 스포츠경향 2026.05.14 · 스포츠경향 2026.10.20",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0914",
+      "EV-1982-0904",
+      "EV-2026-1020-R05",
+      "NU-kia-ps-record"
+    ]
+  },
+  {
+    "id": "LD-009",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "one",
+    "value": 9,
+    "title": "9",
+    "covers": [
+      9
+    ],
+    "stories": [
+      {
+        "text": "KIA(해태)가 잠실에서 확정한 우승 **9**번.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "2009년 **9**회말 끝내기.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "wiki-najiwan"
+        ]
+      },
+      {
+        "text": "1982년 세계선수권에서 한국이 치른 경기는 **9**경기, 8승 1패. 마지막 날 일본전이 우승을 가린 최종전이었다.",
+        "verified": true,
+        "refs": [
+          "wiki-aws1982",
+          "sidae-20261021"
+        ]
+      },
+      {
+        "text": "1993년 **9**월 **9**일, 김태원의 잠실 첫 노히트노런. 스코어도 9-0이었다.",
+        "verified": true,
+        "refs": [
+          "wiki-nohit",
+          "daum-kimtaewon"
+        ]
+      }
+    ],
+    "bridge": "한 자리 숫자는 여기서 끝나고, 기록의 숫자가 시작된다.",
+    "source": "jamsil_research.md 2·3장 · 한국경제 2026.08.19 · Wikipedia(1982 Amateur World Series) · Wikipedia(List of KBO League no-hitters)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-kia-ks-clinch",
+      "EV-2009-1024",
+      "EV-1982-0904"
+    ]
+  },
+  {
+    "id": "LD-010",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 10,
+    "title": "10",
+    "covers": [
+      10
+    ],
+    "stories": [
+      {
+        "text": "1982년 세계선수권 참가 **10**개국.",
+        "verified": true,
+        "refs": [
+          "wiki-aws1982",
+          "sidae-20261021"
+        ]
+      },
+      {
+        "text": "류현진은 잠실을 \"**10**개 구단 모든 투수가 가장 좋아하는 곳\"이라 했다(2026년 마지막 올스타전).",
+        "verified": true,
+        "refs": [
+          "yna-20260711"
+        ]
+      }
+    ],
+    "bridge": "투수가 좋아한 구장에서, 원정팀 KIA는 우승 12번 중 9번을 들어 올렸다.",
+    "source": "jamsil_research.md 2·6장 · 연합뉴스 2026.07.11",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0904",
+      "PE-ryu-hyun-jin"
+    ]
+  },
+  {
+    "id": "LD-012",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 12,
+    "title": "12",
+    "covers": [
+      12
+    ],
+    "stories": [
+      {
+        "text": "KIA 통산 우승 **12**번, 그중 9번이 잠실.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "2026년 두산 홈 **12**경기 연속 매진 — 잠실 신기록.",
+        "verified": true,
+        "refs": [
+          "khan-20260513",
+          "khan-20260514"
+        ]
+      },
+      {
+        "text": "철거 착수는 2026년 **12**월.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "dailian-mice"
+        ]
+      }
+    ],
+    "bridge": "마지막 날의 스코어는 13-1.",
+    "source": "2차 조사 · jamsil_research.md 2장 · 코리아데일리 2026.05.10",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-kia-ks-clinch",
+      "EV-2026-12-demolition"
+    ]
+  },
+  {
+    "id": "LD-013",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 13,
+    "title": "13",
+    "covers": [
+      13
+    ],
+    "stories": [
+      {
+        "text": "2026년 10월 20일, KIA **13**-1 LG. 잠실의 마지막 공식 경기.",
+        "verified": true,
+        "refs": [
+          "wikitree-20261020",
+          "kbo-gc-20261020"
+        ]
+      },
+      {
+        "text": "1990년 한국시리즈 1차전, LG **13**-0 삼성. 창단 첫해 우승의 첫 경기.",
+        "verified": true,
+        "refs": [
+          "imaeil-ks"
+        ]
+      },
+      {
+        "text": "1990년 8월 26일 해태-LG전. 관중 난입으로 67분 멈췄다가 다시 열린 경기는 LG의 **13**-1 승리로 끝났다.",
+        "verified": true,
+        "refs": [
+          "osen-brawl3",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "2015년 한국시리즈 5차전, 두산 **13**-2 삼성. 잠실에서 우승 확정.",
+        "verified": true,
+        "refs": [
+          "seoul-20151031"
+        ]
+      },
+      {
+        "text": "2025년 한국시리즈 2차전, LG **13**-5 한화. 잠실이 본 마지막 한국시리즈 승리.",
+        "verified": true,
+        "refs": [
+          "newsis-20251031",
+          "kbo-gc-20251027"
+        ]
+      }
+    ],
+    "bridge": "잠실은 올스타전을 전국에서 가장 많이 품은 구장이기도 했다.",
+    "source": "jamsil_research.md 2·4장 · 매일신문 · 서울신문 2015.10.31 · 뉴시스 2025.10.31 · OSEN 난투사(3) · 더팩트 김대호 칼럼",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020"
+    ]
+  },
+  {
+    "id": "LD-014",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 14,
+    "title": "14",
+    "covers": [
+      14
+    ],
+    "stories": [
+      {
+        "text": "잠실 올스타전 **14**회(1983~2026) — 전국 최다.",
+        "verified": true,
+        "refs": [
+          "khan-20260709",
+          "segye-20260710"
+        ]
+      },
+      {
+        "text": "2022년 40주년 올스타전 뒤 4년 만에 다시 잠실로 왔다. 2026년, **14**번째이자 마지막.",
+        "verified": true,
+        "refs": [
+          "khan-20260513",
+          "segye-20260710"
+        ]
+      }
+    ],
+    "bridge": "그 가운데 1984년 한 번이 역대 올스타 최다 관중을 남겼다(→ 35,000).",
+    "source": "jamsil_research.md 7장 A · 스포츠경향 2026.05.13 · 세계일보·뉴시스 2026.07",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-allstar-count",
+      "EV-2026-0710"
+    ]
+  },
+  {
+    "id": "LD-022",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 22,
+    "title": "22",
+    "covers": [
+      22
+    ],
+    "stories": [
+      {
+        "text": "KIA의 잠실 포스트시즌 **22**승(31경기 22승 1무 8패).",
+        "verified": true,
+        "refs": [
+          "khan-20261020"
+        ]
+      }
+    ],
+    "bridge": "잠실에서 우승이 확정된 경기는 모두 25경기.",
+    "source": "jamsil_research.md 3장 · 스포츠경향 2026.10.20",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-kia-ps-record"
+    ]
+  },
+  {
+    "id": "LD-025",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 25,
+    "title": "25",
+    "covers": [
+      25
+    ],
+    "stories": [
+      {
+        "text": "역대 한국시리즈 43번 가운데 **25**번이 잠실에서 우승을 확정했다.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021",
+          "khan-20260513",
+          "dailian-25th"
+        ]
+      },
+      {
+        "text": "LG의 2022~2025 두산전 39승 **25**패.",
+        "verified": true,
+        "refs": [
+          "kbo-vs"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      }
+    ],
+    "bridge": "숫자를 둘만 더 올리면, 개장 두 달 만에 치른 국제대회가 나온다.",
+    "source": "jamsil_research.md 3장 · 오마이스타 2026.10.21 · 스포츠경향 2026.05.13",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-ks-games",
+      "NU-rivalry-lg"
+    ]
+  },
+  {
+    "id": "LD-027",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 27,
+    "title": "27",
+    "covers": [
+      27
+    ],
+    "stories": [
+      {
+        "text": "개장 두 달 만에 연 **제27회** 세계야구선수권.",
+        "verified": true,
+        "refs": [
+          "wiki-aws1982",
+          "khan-20260513"
+        ]
+      },
+      {
+        "text": "좌석은 2010년 **27**,000석으로 줄어든다.",
+        "verified": true,
+        "refs": [
+          "khan-20260709"
+        ]
+      }
+    ],
+    "bridge": "LG가 다시 우승하기까지 기다린 시간은 29년.",
+    "source": "jamsil_research.md 2장 · 7장 A · 스포츠경향 2026.07.09",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0904",
+      "NU-seats"
+    ]
+  },
+  {
+    "id": "LD-029",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 29,
+    "title": "29",
+    "covers": [
+      29
+    ],
+    "stories": [
+      {
+        "text": "LG, 1994년 이후 **29**년 만의 우승(2023, 잠실).",
+        "verified": true,
+        "refs": [
+          "newsis-20231113",
+          "seoul-20231113"
+        ]
+      }
+    ],
+    "bridge": "그 29년 사이, 잠실을 홈으로 쓴 타자가 처음으로 30홈런-30도루를 해냈다.",
+    "source": "jamsil_research.md 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-lg-29years",
+      "EV-2023-lg-ks"
+    ]
+  },
+  {
+    "id": "LD-031",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 31,
+    "title": "31",
+    "covers": [
+      31
+    ],
+    "stories": [
+      {
+        "text": "KIA 잠실 포스트시즌 **31**경기.",
+        "verified": true,
+        "refs": [
+          "khan-20261020"
+        ]
+      },
+      {
+        "text": "임시구장 시대는 20**31**년까지.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "khan-20260513"
+        ]
+      }
+    ],
+    "bridge": "그리고 32. 이 구장이 사라진 자리에 다음 구장이 서는 해.",
+    "source": "jamsil_research.md 2·3장 · 스포츠경향 2026.10.20",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-kia-ps-record",
+      "EV-2027-temp-stadium"
+    ]
+  },
+  {
+    "id": "LD-039",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 39,
+    "title": "39 · 40",
+    "covers": [
+      39,
+      40
+    ],
+    "stories": [
+      {
+        "text": "LG의 2022~2025 두산전 **39**승 25패.",
+        "verified": true,
+        "refs": [
+          "kbo-vs"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      },
+      {
+        "text": "그 전 7년(2015~2021) 두산은 LG에 67승 5무 **40**패. 한 지붕 두 팀은 서로의 숫자를 뒤집으며 살았다.",
+        "verified": true,
+        "refs": [
+          "kbo-vs"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      }
+    ],
+    "bridge": "라이벌 이전에, 잠실을 홈으로 쓴 한 외국인 타자가 한 시즌 42홈런을 쳤다.",
+    "source": "jamsil_research.md 3장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-rivalry-lg",
+      "NU-rivalry-doosan"
+    ]
+  },
+  {
+    "id": "LD-043",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 43,
+    "title": "43 · 44 · 45 · 47",
+    "covers": [
+      43,
+      44,
+      45,
+      47
+    ],
+    "stories": [
+      {
+        "text": "잠실의 **44**년, 시즌으로 세면 **45**시즌.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012"
+        ]
+      },
+      {
+        "text": "마지막 시즌 LG는 구단 최다 매진 기록(2025년 **43**회)을 **44**번째 매진으로 넘었다.",
+        "verified": true,
+        "refs": [
+          "lg-20261004"
+        ]
+      },
+      {
+        "text": "그리고 **47**번 매진으로 시즌을 마쳤다.",
+        "verified": true,
+        "refs": [
+          "mt-20261008"
+        ]
+      }
+    ],
+    "bridge": "착공부터 세면 46년이다.",
+    "source": "jamsil_research.md 1장 · 2차 조사 · LG 구단 발표 2026.10.04 · 머니투데이 2026.10.08",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-years",
+      "NU-lg-2026"
+    ]
+  },
+  {
+    "id": "LD-049",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 49,
+    "title": "49",
+    "covers": [
+      49
+    ],
+    "stories": [
+      {
+        "text": "오스틴(LG)은 KBO 통산 홈런 99개 중 **49**개를 잠실에서 쳤다(2026년 6월 기준).",
+        "verified": false,
+        "note": "스포츠경향 2026.06.02 1개 출처. 이후 시즌 40호(10.04)까지 쳐 최종 잠실 홈런은 49개보다 많음 — 최종치 미확인",
+        "refs": [
+          "khan-20260602"
+        ]
+      }
+    ],
+    "bridge": "개장에서 꼭 50년 뒤, 같은 자리에 새 구장이 선다.",
+    "source": "스포츠경향 2026.06.02",
+    "verified": false,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "LD-067",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 67,
+    "title": "67",
+    "covers": [],
+    "stories": [
+      {
+        "text": "두산의 2015~2021 LG전 **67**승.",
+        "verified": true,
+        "refs": [
+          "kbo-vs"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      },
+      {
+        "text": "1990년 8월 26일 관중 난동으로 경기가 멈춘 시간 **67**분.",
+        "verified": true,
+        "refs": [
+          "osen-brawl3",
+          "tf-20260105"
+        ]
+      }
+    ],
+    "bridge": "다시 마지막 시즌으로 돌아가면, LG의 홈경기는 73번이었다.",
+    "source": "jamsil_research.md 3장 · 더팩트 · OSEN 난투사(3)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-rivalry-doosan",
+      "EV-1990-0826"
+    ]
+  },
+  {
+    "id": "LD-073",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 73,
+    "title": "73",
+    "covers": [],
+    "stories": [
+      {
+        "text": "2026년 LG 홈 **73**경기.",
+        "verified": true,
+        "refs": [
+          "mt-20261008",
+          "lg-20261004"
+        ]
+      }
+    ],
+    "bridge": "두 자리의 끝은 잠실이 품은 한국시리즈의 수다.",
+    "source": "2차 조사 · LG 구단 발표 2026.10.04 · 머니투데이 2026.10.08",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-lg-2026"
+    ]
+  },
+  {
+    "id": "LD-090",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 90,
+    "title": "90",
+    "covers": [
+      34
+    ],
+    "stories": [
+      {
+        "text": "잠실에서 열린 한국시리즈 **90**경기. 중립구장 잠실은 한국시리즈의 집이었다.",
+        "verified": true,
+        "refs": [
+          "khan-20260513",
+          "ohmy-20261021"
+        ]
+      },
+      {
+        "text": "잠실의 포스트시즌은 모두 196경기 — 한국시리즈 **90**, 플레이오프 62, 준플레이오프 34, 와일드카드 9.",
+        "verified": false,
+        "note": "오마이스타 2026.10.21 1건",
+        "refs": [
+          "ohmy-20261021"
+        ]
+      }
+    ],
+    "bridge": "이제 숫자가 거리로 바뀐다.",
+    "source": "jamsil_research.md 3장 · 오마이스타 2026.10.21",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "NU-ks-games"
+    ]
+  },
+  {
+    "id": "LD-100",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 100,
+    "title": "100 · 120 · 125",
+    "covers": [],
+    "stories": [
+      {
+        "text": "좌우 펜스 **100**m.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "dailian-20261012"
+        ]
+      },
+      {
+        "text": "좌우중간 **120**m.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "dailian-20261012"
+        ]
+      },
+      {
+        "text": "중앙 펜스 **125**m — 국내 최대. 투수 친화 구장의 이유이자, 홈런이 귀했던 이유.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "khan-20260513"
+        ]
+      }
+    ],
+    "bridge": "그 담장 안에 들어간 돈부터 세어 보자.",
+    "source": "jamsil_research.md 1장 · 더팩트 · 스포츠경향 2010 · 위키트리 2026.01.05",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-center-fence",
+      "PL-stadium"
+    ]
+  },
+  {
+    "id": "LD-126",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 126,
+    "title": "126",
+    "covers": [],
+    "stories": [
+      {
+        "text": "야구장 공사비 **126**억 원.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "wikitree-20260105",
+          "ohmy-20261021"
+        ]
+      }
+    ],
+    "bridge": "그 구장에서 한 타자는 홈런만 131개를 쳤다.",
+    "source": "더팩트 · 위키트리 2026.01.05",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PL-stadium"
+    ]
+  },
+  {
+    "id": "LD-131",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 131,
+    "title": "131",
+    "covers": [],
+    "stories": [
+      {
+        "text": "김동주, 잠실에서만 **131**홈런. 잠실 최다 홈런이다.",
+        "verified": true,
+        "refs": [
+          "nate-goodbye15",
+          "khan-20260602"
+        ]
+      },
+      {
+        "text": "그 131개를 치는 동안 잠실 타석에 3,763번 섰다.",
+        "verified": false,
+        "note": "스포츠경향 2026.06.02 1건",
+        "refs": [
+          "khan-20260602"
+        ]
+      }
+    ],
+    "bridge": "그리고 한 시즌 거의 모든 경기를 지켜본 팬이 있다.",
+    "source": "스포츠경향 2026.06.02 · 연합뉴스 [굿바이 잠실]⑮ 2026.09.07",
+    "verified": false,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "LD-142",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 142,
+    "title": "142 · 144",
+    "covers": [],
+    "stories": [
+      {
+        "text": "2026 정규시즌 **144**경기 중 **142**경기를 직관한 롯데 팬이 있다. 잠실 최다 방문 팬 기록은 아직 없다.",
+        "verified": true,
+        "refs": [
+          "mt-20261005"
+        ]
+      }
+    ],
+    "bridge": "잠실의 마지막 만루홈런은 145m를 날았다.",
+    "source": "머니투데이 (jamsil_research.md 7장 D)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "Q1"
+    ]
+  },
+  {
+    "id": "LD-150",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 150,
+    "title": "150",
+    "covers": [],
+    "stories": [
+      {
+        "text": "2000년 5월 4일 김동주의 잠실 첫 장외홈런, 비거리 **150**m.",
+        "verified": true,
+        "note": "비거리는 당시 보도 추정치(공식 실측 아님)",
+        "refs": [
+          "sidae-20261021",
+          "khan-20150131",
+          "osen-140m"
+        ]
+      }
+    ],
+    "bridge": "거리 다음은 어깨다. 한 투수는 한 시리즈에 공 610개를 던졌다.",
+    "source": "시대 2026.10.21 · OSEN · 스포츠경향 2015.01.31",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "Q4",
+      "NU-center-fence"
+    ]
+  },
+  {
+    "id": "LD-1020",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "four",
+    "value": 1020,
+    "title": "1,020",
+    "covers": [],
+    "stories": [
+      {
+        "text": "서울종합운동장 단지 전체 공사비 **1,020**억 원.",
+        "verified": false,
+        "note": "국가기록원 1개 출처",
+        "refs": [
+          "archives-stadium"
+        ]
+      }
+    ],
+    "bridge": "그 구장에서 가장 많은 안타를 친 사람은 박용택이다.",
+    "source": "국가기록원 — 서울종합운동장",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "PL-jamsil-island"
+    ]
+  },
+  {
+    "id": "LD-1442",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "four",
+    "value": 1442,
+    "title": "1,442",
+    "covers": [],
+    "stories": [
+      {
+        "text": "박용택, 잠실 최다 안타 **1,442**개.",
+        "verified": true,
+        "refs": [
+          "khan-20260710"
+        ]
+      },
+      {
+        "text": "박용택의 KBO 통산 안타는 2,504개. 그 절반을 넘는 안타가 잠실에서 나왔다.",
+        "verified": true,
+        "refs": [
+          "khan-20260710"
+        ]
+      }
+    ],
+    "bridge": "그 안타를 지켜본 관중은 1990년에 3,000원을 냈다.",
+    "source": "jamsil_research.md 3장 · 스포츠경향 2026.07.10 · 일간스포츠 2026.07.10",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-park-hits",
+      "PE-park-yong-taek"
+    ]
+  },
+  {
+    "id": "LD-1982",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "four",
+    "value": 1982,
+    "title": "1982 · 2026",
+    "covers": [],
+    "stories": [
+      {
+        "text": "**1982**, 프로야구 원년이자 잠실 원년.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "**2026**, 마지막 시즌. 1982에 44를 더하면 2026이다.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012"
+        ]
+      }
+    ],
+    "bridge": "그 사이, 관중은 얼마를 냈을까.",
+    "source": "jamsil_research.md 1장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0715",
+      "EV-2026-1020",
+      "NU-years"
+    ]
+  },
+  {
+    "id": "LD-3000",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "four",
+    "value": 3000,
+    "title": "3,000 · 4,000",
+    "covers": [],
+    "stories": [
+      {
+        "text": "1990년 일반석 **3,000**원, 지정석 **4,000**원. 44년 동안 잠실에서 가장 많은 돈을 쓴 사람은 누구일까.",
+        "verified": false,
+        "refs": [],
+        "note": "1990년 입장료 — 검증 링크 미확보(원자료 6장)"
+      }
+    ],
+    "bridge": "44년 동안 잠실에서 열린 프로 경기를 모두 세면?",
+    "source": "jamsil_research.md 6장 · 7장 A",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "NU-ticket-1990",
+      "Q2"
+    ]
+  },
+  {
+    "id": "LD-16167",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "five",
+    "value": 16167,
+    "title": "16,167",
+    "covers": [],
+    "stories": [
+      {
+        "text": "첫 경기(1982.07.16)부터 마지막 경기(2026.10.20)까지 **16,167**일.",
+        "verified": true,
+        "refs": [
+          "isplus-20261020"
+        ]
+      }
+    ],
+    "bridge": "그 마지막 해, 잠실의 의자는 23,750개였다.",
+    "source": "일간스포츠 2026.10.20 · 날짜 계산 검증",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-days"
+    ]
+  },
+  {
+    "id": "LD-23750",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "five",
+    "value": 23750,
+    "title": "23,750",
+    "covers": [],
+    "stories": [
+      {
+        "text": "현재 좌석 **23,750**석. 2026년 10월 7일 LG의 마지막 정규시즌 홈경기도 **23,750**장이 모두 팔렸다.",
+        "verified": true,
+        "refs": [
+          "top-20261007",
+          "tf-20260105"
+        ]
+      },
+      {
+        "text": "그 시즌 LG 경기당 평균 관중은 22,222명.",
+        "verified": true,
+        "refs": [
+          "mt-20261008"
+        ]
+      }
+    ],
+    "bridge": "처음엔 의자가 더 많았다.",
+    "source": "jamsil_research.md 1장 · 톱스타뉴스 2026.10.07 · 머니투데이 2026.10.08 · LG 구단 발표 2026.10.04",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-seats"
+    ]
+  },
+  {
+    "id": "LD-30500",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "five",
+    "value": 30500,
+    "title": "30,500 → 27,000",
+    "covers": [],
+    "stories": [
+      {
+        "text": "개장 당시 **30,500**석, 2010년 **27,000**석.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "khan-20260709"
+        ]
+      },
+      {
+        "text": "1990년 8월 26일 난동이 일어난 날, 관중은 30,100명이었다.",
+        "verified": true,
+        "refs": [
+          "osen-brawl3",
+          "tf-20260105"
+        ]
+      }
+    ],
+    "bridge": "가장 많은 사람이 모인 날은 1984년의 올스타전이었다.",
+    "source": "jamsil_research.md 1장 · 7장 A · 더팩트 · OSEN 난투사(3)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-seats",
+      "EV-1990-0826"
+    ]
+  },
+  {
+    "id": "LD-35000",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "five",
+    "value": 35000,
+    "title": "35,000",
+    "covers": [],
+    "stories": [
+      {
+        "text": "1984년 올스타전 **35,000**명 — 역대 올스타 최다 관중.",
+        "verified": true,
+        "refs": [
+          "khan-20260709",
+          "newsis-20260710"
+        ]
+      },
+      {
+        "text": "다음 잠실, 돔구장은 3만~3만 5천 석을 논의 중이다.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "dailian-20261012"
+        ]
+      }
+    ],
+    "bridge": "의자는 30,500개에서 23,750개로 줄었지만, 사람은 오히려 늘었다.",
+    "source": "jamsil_research.md 5장 · 7장 A",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-allstar-1984",
+      "PL-dome"
+    ]
+  },
+  {
+    "id": "LD-1291703",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "six",
+    "value": 1291703,
+    "title": "1,291,703 → 1,542,458",
+    "covers": [],
+    "stories": [
+      {
+        "text": "2012년 두산 **1,291,703**명이 잠실 시즌 최다 관중 기록을 세웠다.",
+        "verified": true,
+        "refs": [
+          "kbo-crowd"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      },
+      {
+        "text": "2024년 LG 1,397,499명이 기록을 넘었다.",
+        "verified": true,
+        "refs": [
+          "lg-2024",
+          "daum-20241002"
+        ]
+      },
+      {
+        "text": "2025년 LG **1,542,458**명.",
+        "verified": true,
+        "refs": [
+          "lg-20261004",
+          "kbo-crowd"
+        ]
+      }
+    ],
+    "bridge": "그리고 마지막 해.",
+    "source": "jamsil_research.md 7장 A · LG 구단 발표 2024 · 다음 2024.10.02",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-season-attendance"
+    ]
+  },
+  {
+    "id": "LD-1622238",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "six",
+    "value": 1622238,
+    "title": "1,622,238",
+    "covers": [],
+    "stories": [
+      {
+        "text": "2026년 LG **1,622,238**명 — 잠실 사상 처음이자 마지막 160만. 의자가 가장 적던 시절에 관중이 가장 많았다.",
+        "verified": true,
+        "refs": [
+          "top-20261007",
+          "mt-20261008"
+        ]
+      }
+    ],
+    "bridge": "잠실 밖으로 넓히면, 리그 전체가 같은 곡선을 그렸다.",
+    "source": "톱스타뉴스 2026.10.07 · 머니투데이 2026.10.08",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-lg-2026"
+    ]
+  },
+  {
+    "id": "LD-12770551",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "six",
+    "value": 12770551,
+    "title": "143만 → 12,770,551",
+    "covers": [],
+    "stories": [
+      {
+        "text": "KBO 총관중, 1982년 143만 명에서 2026년 **12,770,551**명으로.",
+        "verified": true,
+        "refs": [
+          "herald-20261012",
+          "kbo-crowd"
+        ]
+      }
+    ],
+    "bridge": "다음 잠실에는 5천억 원이 들어간다. 그러나 이 계단의 끝은 다시 1이다.",
+    "source": "jamsil_research.md 7장 A · 헤럴드경제 2026.10.12",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "NU-kbo-attendance"
+    ]
+  },
+  {
+    "id": "LD-END",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "epilogue",
+    "value": 1,
+    "title": "1",
+    "covers": [],
+    "stories": [
+      {
+        "text": "2026년 10월 20일, 황동하가 던진 잠실의 **마지막 공 1개**. 그 공은 지금 어디에 있을까.",
+        "verified": true,
+        "refs": [
+          "kbo-gc-20261020",
+          "fn-20261021"
+        ]
+      }
+    ],
+    "bridge": "1호 홈런의 1로 시작한 숫자는 마지막 공의 1로 닫힌다.",
+    "source": "jamsil_research.md 4장 · 8장 Q8",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020-R07",
+      "AR-last-ball",
+      "Q8"
+    ]
+  },
+  {
+    "id": "LD-D0505",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 5,
+    "title": "5.5",
+    "covers": [
+      5
+    ],
+    "stories": [
+      {
+        "text": "어린이날 잠실 더비",
+        "verified": true,
+        "refs": [
+          "khan-20260505",
+          "seoul-20170505"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2·7장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1996-0505"
+    ]
+  },
+  {
+    "id": "LD-D1012",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 12,
+    "title": "10.12",
+    "covers": [
+      12
+    ],
+    "stories": [
+      {
+        "text": "정규시즌 잠실 마지막 경기 (2026, 롯데-두산)",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "kbo-gc-20261012"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1012"
+    ]
+  },
+  {
+    "id": "LD-D0914",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 14,
+    "title": "9.14 · 10.14",
+    "covers": [
+      14
+    ],
+    "stories": [
+      {
+        "text": "세계선수권 첫 우승 (1982) · 마지막 잠실 라이벌전 (2026)",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "khan-20261015"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0914",
+      "EV-2026-1014"
+    ]
+  },
+  {
+    "id": "LD-D0715",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 15,
+    "title": "7.15",
+    "covers": [
+      15
+    ],
+    "stories": [
+      {
+        "text": "개장식 (1982)",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "isplus-20261020"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0715"
+    ]
+  },
+  {
+    "id": "LD-D0716",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 16,
+    "title": "7.16",
+    "covers": [
+      16
+    ],
+    "stories": [
+      {
+        "text": "잠실의 첫 경기 (1982)",
+        "verified": true,
+        "refs": [
+          "isplus-20261020",
+          "sidae-20261021"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1982-0716"
+    ]
+  },
+  {
+    "id": "LD-D0417",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 17,
+    "title": "4.17 · 7.17",
+    "covers": [
+      17
+    ],
+    "stories": [
+      {
+        "text": "착공 (1980) · 1호 홈런 (1982) — 같은 17일",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "sidae-20261021"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 1·2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1980-0417",
+      "EV-1982-0717"
+    ]
+  },
+  {
+    "id": "LD-D0918",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 18,
+    "title": "9.18",
+    "covers": [
+      18
+    ],
+    "stories": [
+      {
+        "text": "서울시 돔구장 건설안 발표 (2023)",
+        "verified": true,
+        "refs": [
+          "seoul-20230918"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2023-0918"
+    ]
+  },
+  {
+    "id": "LD-D1020",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 20,
+    "title": "10.20",
+    "covers": [
+      20
+    ],
+    "stories": [
+      {
+        "text": "마지막 공식 경기 (2026)",
+        "verified": true,
+        "refs": [
+          "isplus-20261020",
+          "kbo-gc-20261020"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020"
+    ]
+  },
+  {
+    "id": "LD-D1024",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 24,
+    "title": "10.24",
+    "covers": [
+      24
+    ],
+    "stories": [
+      {
+        "text": "나지완 끝내기 홈런 (2009)",
+        "verified": true,
+        "refs": [
+          "wiki-najiwan",
+          "dailian-najiwan"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2009-1024"
+    ]
+  },
+  {
+    "id": "LD-D0826",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 26,
+    "title": "8.26",
+    "covers": [
+      26
+    ],
+    "stories": [
+      {
+        "text": "해태-LG전 관중 난동 (1990)",
+        "verified": true,
+        "refs": [
+          "osen-brawl3",
+          "tf-20260105"
+        ]
+      }
+    ],
+    "source": "jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-1990-0826"
+    ]
+  },
+  {
+    "id": "LD-J09",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 9,
+    "title": "9",
+    "covers": [
+      9
+    ],
+    "team": "LG",
+    "retired": true,
+    "stories": [
+      {
+        "text": "이병규, LG의 '영원한 **9**번'. 2017년 은퇴식과 함께 영구결번 — 야수로는 LG 처음이다.",
+        "verified": true,
+        "refs": [
+          "dailian-641780"
+        ]
+      },
+      {
+        "text": "같은 9가 계단에서는 KIA가 잠실에서 확정한 우승 9번이다.",
+        "verified": true,
+        "refs": [
+          "ohmy-20261021"
+        ]
+      }
+    ],
+    "source": "데일리안 · OSEN",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-lee-byung-kyu",
+      "LD-009"
+    ]
+  },
+  {
+    "id": "LD-J21",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 21,
+    "title": "21",
+    "covers": [
+      21
+    ],
+    "team": "두산(OB)",
+    "retired": true,
+    "stories": [
+      {
+        "text": "박철순의 **21**번. 1982년 원년 우승을 이끈 투수의 번호로, 2002년 영구결번됐다.",
+        "verified": true,
+        "refs": [
+          "khan-20020405",
+          "newsis-20200705"
+        ]
+      },
+      {
+        "text": "2026년 7월, 그는 잠실의 마지막 올스타전 마운드에 시구자로 섰다.",
+        "verified": true,
+        "refs": [
+          "khan-20260711",
+          "newsis-20260711"
+        ]
+      }
+    ],
+    "source": "두산·KBO 관련 보도(복수) · jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-park-chul-soon",
+      "EV-2026-0710"
+    ]
+  },
+  {
+    "id": "LD-J33",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 33,
+    "title": "33",
+    "covers": [
+      33
+    ],
+    "team": "LG",
+    "retired": true,
+    "stories": [
+      {
+        "text": "박용택의 **33**번. 2022년 7월 3일 잠실 은퇴식에서 LG 세 번째 영구결번이 됐다. 그날 잠실은 시즌 첫 매진이었고, LG는 롯데를 4-1로 이겼다.",
+        "verified": true,
+        "refs": [
+          "osen-pyt",
+          "dailian-pyt"
+        ]
+      },
+      {
+        "text": "잠실 최다 안타 1,442개의 주인.",
+        "verified": true,
+        "refs": [
+          "khan-20260710"
+        ]
+      }
+    ],
+    "source": "아이뉴스24 · OSEN (2022.07.03)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-park-yong-taek",
+      "LD-1442"
+    ]
+  },
+  {
+    "id": "LD-J41",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 41,
+    "title": "41",
+    "covers": [
+      41
+    ],
+    "team": "LG",
+    "retired": true,
+    "stories": [
+      {
+        "text": "김용수의 **41**번. 1999년, LG 구단 첫 영구결번.",
+        "verified": true,
+        "refs": [
+          "dailian-641780",
+          "newsis-20200705"
+        ]
+      },
+      {
+        "text": "2026년 7월 잠실 마지막 올스타전에서 박철순(21번)과 함께 시구했다. 두 영구결번이 같은 마운드에 섰다.",
+        "verified": true,
+        "refs": [
+          "khan-20260711"
+        ]
+      }
+    ],
+    "source": "데일리안 · OSEN · jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-kim-yong-su",
+      "EV-2026-0710"
+    ]
+  },
+  {
+    "id": "LD-J54",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 54,
+    "title": "54",
+    "covers": [
+      54
+    ],
+    "team": "두산(OB)",
+    "retired": true,
+    "stories": [
+      {
+        "text": "김영신의 **54**번. 1986년 세상을 떠난 OB 포수를 기리며 결번한 KBO 리그 첫 영구결번이다.",
+        "verified": true,
+        "refs": [
+          "newsis-20200705",
+          "dailian-547569"
+        ]
+      }
+    ],
+    "source": "데일리안 · OB Bears 자료(복수)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-kim-young-shin",
+      "EV-1986-ob-jamsil"
+    ]
+  },
+  {
+    "id": "LD-J01",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 1,
+    "title": "1",
+    "covers": [
+      1
+    ],
+    "team": "LG",
+    "retired": false,
+    "stories": [
+      {
+        "text": "임찬규, LG **1**번. 어린 시절 잠실 관중석의 '엘린이'가 마운드에 섰다.",
+        "verified": true,
+        "refs": [
+          "kbo-player",
+          "khan-20260513"
+        ]
+      }
+    ],
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회) · jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-lim-chan-gyu"
+    ]
+  },
+  {
+    "id": "LD-J10",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 10,
+    "title": "10",
+    "covers": [
+      10
+    ],
+    "team": "LG",
+    "retired": false,
+    "stories": [
+      {
+        "text": "오지환, LG **10**번.",
+        "verified": true,
+        "refs": [
+          "kbo-player"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      }
+    ],
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-oh-ji-hwan"
+    ]
+  },
+  {
+    "id": "LD-J17",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 17,
+    "title": "17",
+    "covers": [
+      17
+    ],
+    "team": "LG",
+    "retired": false,
+    "stories": [
+      {
+        "text": "박해민, LG **17**번.",
+        "verified": true,
+        "refs": [
+          "kbo-player"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      }
+    ],
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-park-hae-min"
+    ]
+  },
+  {
+    "id": "LD-J23",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 23,
+    "title": "23",
+    "covers": [
+      23
+    ],
+    "team": "LG",
+    "retired": false,
+    "stories": [
+      {
+        "text": "오스틴, LG **23**번. 통산 홈런 99개 중 49개를 잠실에서 쳤다(2026년 6월 기준).",
+        "verified": false,
+        "note": "스포츠경향 2026.06.02 1개 출처. 이후 시즌 40호(10.04)까지 쳐 최종 잠실 홈런은 49개보다 많음 — 최종치 미확인",
+        "refs": [
+          "kbo-player",
+          "khan-20260602"
+        ]
+      },
+      {
+        "text": "2026년 시즌 41홈런 127타점. LG 구단 한 시즌 최다 홈런이다.",
+        "verified": true,
+        "refs": [
+          "khan-20260913"
+        ]
+      }
+    ],
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회) · 스포츠경향 2026.06.02 · 스포츠경향 2026.09.13 · 일간스포츠 2026.10",
+    "verified": false,
+    "contributor": "research",
+    "linked": [
+      "PE-austin",
+      "LD-049"
+    ]
+  },
+  {
+    "id": "LD-J25",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 25,
+    "title": "25",
+    "covers": [
+      25
+    ],
+    "team": "두산",
+    "retired": false,
+    "stories": [
+      {
+        "text": "양의지, 두산 **25**번.",
+        "verified": true,
+        "refs": [
+          "kbo-player"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      }
+    ],
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회)",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-yang-eui-ji"
+    ]
+  },
+  {
+    "id": "LD-J31",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 31,
+    "title": "31",
+    "covers": [
+      31
+    ],
+    "team": "두산",
+    "retired": false,
+    "stories": [
+      {
+        "text": "정수빈, 두산 **31**번. 팬들이 '잠실 아이돌'이라 부른 외야수.",
+        "verified": true,
+        "refs": [
+          "kbo-player"
+        ],
+        "note": "KBO 공식 기록 페이지에서 직접 확인 가능(기사 근거 미확보)"
+      }
+    ],
+    "source": "KBO 공식 선수 검색 (2026-11-04 조회) · jamsil_research.md 6장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-jung-su-bin"
+    ]
+  },
+  {
+    "id": "LD-J52",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "jersey",
+    "value": 52,
+    "title": "52",
+    "covers": [
+      52
+    ],
+    "team": "두산",
+    "retired": false,
+    "stories": [
+      {
+        "text": "김재호, 두산 **52**번. 두산에서만 1,794경기를 뛰어 은퇴 당시 구단 최다 출장. 2025년 8월 24일 정수빈이 1,795번째 경기로 그 기록을 넘었다. 2026년 마지막 올스타전 퓨처스 시구자.",
+        "verified": true,
+        "refs": [
+          "nocut-jaeho",
+          "khan-20260319"
+        ]
+      }
+    ],
+    "source": "두산 베어스 공식 X 2025.08.24 · 뉴스1 · 머니투데이 2025.08.24 · jamsil_research.md 2장",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-kim-jae-ho",
+      "EV-2026-0710"
+    ]
+  },
+  {
+    "id": "LD-145",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 145,
+    "title": "145",
+    "covers": [
+      145
+    ],
+    "stories": [
+      {
+        "text": "2026년 10월 20일 2회 1사 만루, 김도영의 만루홈런이 **145**m를 날았다. 잠실의 마지막 만루홈런이다.",
+        "verified": true,
+        "refs": [
+          "fn-20261020",
+          "wikitree-20261020"
+        ]
+      }
+    ],
+    "bridge": "그보다 5m 더 날아간 공이 있었다.",
+    "source": "파이낸셜뉴스 2026.10.20 · 연합뉴스(서플) 2026.10.20 · 오마이스타 2026.10.21",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "EV-2026-1020",
+      "EV-2026-1020-R03"
+    ]
+  },
+  {
+    "id": "LD-610",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "three",
+    "value": 610,
+    "title": "610",
+    "covers": [],
+    "stories": [
+      {
+        "text": "1984년 한국시리즈, 최동원은 다섯 경기(1·3·5·6·7차전)에 나와 공 **610**개를 던졌다. 마지막 7차전도 잠실에서 끝까지 던졌다.",
+        "verified": false,
+        "note": "투구 수는 시대 2026.10.21 1건",
+        "refs": [
+          "sidae-20261021"
+        ]
+      }
+    ],
+    "bridge": "이제 네 자리, 돈과 사람의 숫자다.",
+    "source": "시대 2026.10.21",
+    "verified": false,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "LD-5742",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "four",
+    "value": 5742,
+    "title": "5,742",
+    "covers": [],
+    "stories": [
+      {
+        "text": "잠실에서 열린 프로야구는 모두 **5,742**경기. 정규시즌 5,530, 포스트시즌 196, 올스타전 16.",
+        "verified": false,
+        "note": "오마이스타 2026.10.21 1건 — KBO 기록으로 확인 필요",
+        "refs": [
+          "ohmy-20261021"
+        ]
+      }
+    ],
+    "bridge": "이제 날과 의자를 센다.",
+    "source": "오마이스타 2026.10.21",
+    "verified": false,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "LD-038",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "two",
+    "value": 38,
+    "title": "38 · 41",
+    "covers": [
+      38,
+      41
+    ],
+    "stories": [
+      {
+        "text": "LG 한 시즌 최다 홈런은 2020년의 **38**개였다. 잠실 마지막 시즌, 오스틴이 **41**개로 새로 썼다.",
+        "verified": true,
+        "refs": [
+          "khan-20260913"
+        ]
+      }
+    ],
+    "bridge": "라이벌전으로 넘어가면 숫자가 커진다.",
+    "source": "스포츠경향 2026.09.13 · 일간스포츠 2026.10",
+    "verified": true,
+    "contributor": "research",
+    "linked": [
+      "PE-austin"
+    ]
+  },
+  {
+    "id": "LD-D0919",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 19,
+    "title": "9.19",
+    "covers": [
+      19
+    ],
+    "stories": [
+      {
+        "text": "서울올림픽 야구(시범종목) 시작 (1988)",
+        "verified": true,
+        "refs": [
+          "wiki-1988oly"
+        ]
+      }
+    ],
+    "source": "Wikipedia(Baseball at the 1988 Summer Olympics)",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "id": "LD-D1009",
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "chapter": "dates",
+    "value": 9,
+    "title": "10.9",
+    "covers": [],
+    "stories": [
+      {
+        "text": "롯데 첫 우승, 최동원의 4승째 (1984)",
+        "verified": true,
+        "refs": [
+          "sidae-20261021",
+          "mt-20111025"
+        ]
+      }
+    ],
+    "source": "시대 2026.10.21 · 머니투데이 2011.10.25",
+    "verified": true,
+    "contributor": "research",
+    "linked": []
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [
+      "PE-lee-byung-kyu"
+    ],
+    "id": "LD-030",
+    "chapter": "two",
+    "value": 30,
+    "title": "30",
+    "covers": [
+      30
+    ],
+    "stories": [
+      {
+        "text": "1999년 이병규, 잠실을 홈으로 쓴 타자로는 처음으로 **30**홈런-30도루를 해냈다.",
+        "verified": true,
+        "refs": [
+          "lg-6441",
+          "osen-byk"
+        ]
+      }
+    ],
+    "bridge": "KIA는 잠실 포스트시즌에서 31경기를 치렀다.",
+    "source": "LG 구단 보도자료 · OSEN(천일평의 야구장 사람들)",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [
+      "EV-2032-03-dome"
+    ],
+    "id": "LD-032",
+    "chapter": "two",
+    "value": 32,
+    "title": "32",
+    "covers": [
+      32
+    ],
+    "stories": [
+      {
+        "text": "20**32**년 3월, 같은 자리에 돔구장이 문을 여는 것이 목표다.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "seoul-20230918"
+        ]
+      },
+      {
+        "text": "2018년 44홈런의 김재환이 달던 두산 **32**번은 2026년 김대한이 이어받았다.",
+        "verified": true,
+        "refs": [
+          "osen-no32",
+          "seoul-20181119"
+        ]
+      }
+    ],
+    "bridge": "새 구장을 기다리기 전까지, LG는 잠실에서 37시즌을 보냈다.",
+    "source": "jamsil_research.md 2·5장 · OSEN 2026.01 · 서울신문 2018.11.19",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-037",
+    "chapter": "two",
+    "value": 37,
+    "title": "37",
+    "covers": [
+      37
+    ],
+    "stories": [
+      {
+        "text": "1990년 창단부터 2026년까지, LG가 잠실을 홈으로 보낸 시즌은 **37**번.",
+        "verified": true,
+        "refs": [
+          "dailian-20261012"
+        ]
+      },
+      {
+        "text": "두산 **37**번은 2022년 박건우가 떠난 뒤 김대한에게 넘어갔다. 한 지붕 아래 번호도 사람을 따라 옮겨 다녔다.",
+        "verified": true,
+        "refs": [
+          "hankyung-20220119"
+        ]
+      }
+    ],
+    "bridge": "그 마지막 시즌, LG의 홈런 기록이 바뀌었다.",
+    "source": "날짜 계산 · 한국경제 2022.01.19(두산 등번호 발표)",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-042",
+    "chapter": "two",
+    "value": 42,
+    "title": "42",
+    "covers": [
+      42
+    ],
+    "stories": [
+      {
+        "text": "1998년 OB 타이론 우즈, 한 시즌 **42**홈런. 장종훈의 41개를 넘은 당시 KBO 신기록이었고, 그해 외국인 선수 처음으로 MVP가 됐다.",
+        "verified": true,
+        "refs": [
+          "nocut-woods",
+          "newsis-20200826"
+        ]
+      },
+      {
+        "text": "1984년 최동원의 한국시리즈 4승은 그 뒤 **42**년 동안 아무도 다시 해내지 못했다.",
+        "verified": true,
+        "refs": [
+          "sidae-20261021"
+        ]
+      }
+    ],
+    "bridge": "그렇게 44년이 흘렀다.",
+    "source": "노컷뉴스 · 뉴시스 2020.08.26 · OSEN · 시대 2026.10.21",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-046",
+    "chapter": "two",
+    "value": 46,
+    "title": "46",
+    "covers": [
+      46
+    ],
+    "stories": [
+      {
+        "text": "1980년 4월 착공부터 2026년 철거까지 **46**년. 첫 삽에서 마지막 해체까지의 시간이다.",
+        "verified": true,
+        "refs": [
+          "tf-20260105",
+          "dailian-mice"
+        ]
+      }
+    ],
+    "bridge": "한 외국인 타자는 KBO 통산 홈런의 절반을 잠실에서 쳤다.",
+    "source": "jamsil_research.md 1·2장 · 날짜 계산",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [
+      "EV-2032-03-dome"
+    ],
+    "id": "LD-050",
+    "chapter": "two",
+    "value": 50,
+    "title": "50",
+    "covers": [
+      50
+    ],
+    "stories": [
+      {
+        "text": "1982년 개장에서 꼭 **50**년 뒤인 2032년, 같은 자리에 다음 잠실이 선다(목표).",
+        "verified": true,
+        "refs": [
+          "dailian-20261012",
+          "tf-20260105"
+        ]
+      }
+    ],
+    "bridge": "다음 숫자 67은 가장 빛난 시절과 가장 어두운 밤을 함께 가리킨다.",
+    "source": "jamsil_research.md 1·5장 · 날짜 계산",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-J35",
+    "chapter": "jersey",
+    "value": 35,
+    "title": "35",
+    "team": "LG",
+    "covers": [
+      35
+    ],
+    "stories": [
+      {
+        "text": "김태원, LG **35**번(1986~1998). 이 번호로 1993년 잠실 1호 노히트노런을 던졌다. 2026년 주인은 추세현.",
+        "verified": false,
+        "note": "등번호 이력은 나무위키(LG 트윈스/등번호) 1건",
+        "refs": [
+          "namu-lgno",
+          "wiki-nohit"
+        ]
+      }
+    ],
+    "source": "나무위키 — LG 트윈스/등번호 (2026-11-10 조회) · Wikipedia(List of KBO League no-hitters)",
+    "verified": false
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-J36",
+    "chapter": "jersey",
+    "value": 36,
+    "title": "36",
+    "team": "LG",
+    "covers": [
+      36
+    ],
+    "stories": [
+      {
+        "text": "이형종, LG **36**번을 세 번 달았다(2014 · 2016~2020 · 2022). 2026년 주인은 김성진.",
+        "verified": false,
+        "note": "나무위키(LG 트윈스/등번호) 1건",
+        "refs": [
+          "namu-lgno"
+        ]
+      }
+    ],
+    "source": "나무위키 — LG 트윈스/등번호 (2026-11-10 조회)",
+    "verified": false
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-J48",
+    "chapter": "jersey",
+    "value": 48,
+    "title": "48",
+    "team": "LG → 두산",
+    "covers": [
+      48
+    ],
+    "stories": [
+      {
+        "text": "김지용, LG **48**번(2014~2021). 2022년 두산으로 옮기며 19번을 받았다. 잠실 안에서 1루와 3루를 바꾼 이적.",
+        "verified": true,
+        "refs": [
+          "hankyung-20220119",
+          "namu-lgno"
+        ]
+      }
+    ],
+    "source": "한국경제 2022.01.19(두산 등번호 발표) · 나무위키 — LG 트윈스/등번호",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [
+      "EV-2026-0710"
+    ],
+    "id": "LD-D0711",
+    "chapter": "dates",
+    "value": 11,
+    "title": "7.11",
+    "covers": [
+      11
+    ],
+    "stories": [
+      {
+        "text": "잠실 마지막 올스타전, 나눔 10-2 드림 · MVP 허인서 (2026)",
+        "verified": true,
+        "refs": [
+          "newsis-20260711",
+          "khan-20260711b",
+          "seoul-20260712"
+        ]
+      }
+    ],
+    "source": "뉴시스 2026.07.11 · 스포츠경향 2026.07.11 · 서울신문 2026.07.12",
+    "verified": true
+  },
+  {
+    "type": "Ladder",
+    "venue": "VN-jamsil",
+    "contributor": "research",
+    "linked": [],
+    "id": "LD-D1028",
+    "chapter": "dates",
+    "value": 28,
+    "title": "10.28",
+    "covers": [
+      28
+    ],
+    "stories": [
+      {
+        "text": "두산, 잠실 한국시리즈 6차전 6-5로 우승 확정 · 타이론 우즈 장외 2점포 (2001)",
+        "verified": true,
+        "refs": [
+          "seoul-20011029",
+          "khan-20131031"
+        ]
+      }
+    ],
+    "source": "서울신문 2001.10.29 · 스포츠경향 2013.10.31",
+    "verified": true
+  }
+]
